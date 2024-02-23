@@ -1,0 +1,85 @@
+ÝÇÝNDEKÝLER
+Kitap adý: MEB-EBA Meslek Liseleri Elektrik-Elektronik dersleri
+Özetleme ve LTspice simülasyonlarý
+-------------------------------------
+DERS-1 Lehimleme Ve Baský Devreleri
+   1. LEHÝMLEMEDE KULLANILAN MALZEMELER
+   1.1. Lehimleme
+   1.2. Lehimlemede Kullanýlan Elemanlar
+   1.2.1. Lehim (Lehim Teli)
+   1.2.2. Lehim Pastasý
+   1.2.3. Havya
+   1.2.4. Lehim Pompasý
+   1.2.5. Havya Altlýklarý
+   1.2.5. Sýcak Hava Ýstasyonu
+   1.2.6. Havya Ucu Temizleme Teli
+   1.2.7. IR-DA Ýstasyonu
+   1.2.8. Rework Ýstasyonu
+   1.2.9. Isýtýcý
+   1.2.10. Flux
+   1.2.11. Cýmbýzlar
+   1.2.12. Mikroskop
+   1.2.13. Lehim Sökme Teli (Mas Teli) (Solder Wick)
+   1.2.14. Isopropanol (Ýzopropil Alkol)
+   1.3. Lehimleme Çeþitleri
+   1.3.1. Yumuþak Lehimleme
+   1.3.2. Sert Lehimleme
+   1.4. Lehimleme Yöntemleri
+   1.4.1. Lehim Yerinin Temizlenmesi
+   1.4.2. Havya Ucunun Lehimlemeye Hazýrlanmasý
+   1.4.3. Lehimlemenin Yapýlmasý
+   1.4.4. Uygulamanýn Kontrolü
+   1.4.5. Tellerin Kesilmesi
+   1.5. Ýyi Bir Lehimlemede Olmasý Gereken Özellikler
+   1.6. Devre Elemanlarýnýn Lehimlenmesi
+   1.6.1. Elektronik Devre Elemanlarýný (Diyot, Direnç, Entegre vb.) Lehimlenmesi
+   1.6.2. Üniversal Plaket Üzerinde Nokta Lehimleme
+   1.6.3. Ýletken Uçlarýnýn Lehimlenmesi (Ön Lehimleme)
+   1.6.4. Ýletkenlerin Birbirine Lehimlenmesi
+   1.6.5. Devre Elemanlarýnýn Plaket Üzerine Lehimlenmesi
+   1.6.6. Entegrelerin Plaket Üzerine Lehimlenmesi
+   1.7. Lehim Sökmede Dikkat Edilmesi Gereken Hususlar
+   2. BASKI DEVRE
+   2.1. Baský Devre
+   2.2. Baský Devre Plaketi ve Yapýsý
+   2.3. Baský Devre Plaketinin Boyutlandýrýlmasý
+   2.4. Yerleþtirilme Þekli ve Montaj Ölçülerinin Ayarlanmasý
+   2.5. Baský Devre Plaketinin Hazýrlanmasý
+   2.5.1. Giyotin Makasla Kesme
+   2.5.2. Maket Býçaðý ile Kesme
+   2.5.3. Testere ile Kesme
+   2.6. Patern Oluþturma ve Aþamalarý
+   2.7. Paternin Baský Devre Plakete Aktarýlma Yöntemleri
+   2.7.1. Baský Devre Kalemi Metodu
+   2.7.2. Foto Rezist Metodu
+   2.7.3. Serigrafi Metodu
+   2.8. Patern Oluþtururken Dikkat Edilecek Hususlar
+   DEÐERLER ETKÝNLÝÐÝ
+   UYGULAMA FAALÝYETÝ
+   ÖLÇME VE DEÐERLENDÝRME
+   ÖÐRENME FAALÝYETÝ–3
+   3. BASKI DEVRE UYGULAMASI
+   3.1. Paternin Plaket Üzerine Aktarýlma Yöntemleri
+   3.2. Pozlandýrma Ýþlemi
+   3.2.1. Foto Rezist Yönteminde Pozlandýrma Ýþlemi
+   3.2.2. Serigrafi Yönteminde Pozlandýrma Ýþlemi
+   3.3. Plaketin Banyo Ýþlemi
+   3.4. Plaketin Aside Atýlmasý Ýþlemi
+   3.4. Plaketin Delinmesi
+   3.5. Plaket Üzerine Devre Elemanlarýnýn Montajý
+   UYGULAMA FAALÝYETÝ
+   ÖLÇME VE DEÐERLENDÝRME 
+
+DERS-2 Elektriðin Temel Esaslarý
+DERS-3 Elektriksel Büyüklükler Ve Ölçülmesi
+DERS-4 Kuvvetli Akým Devreleri
+DERS-5 Zayýf Akým Devreleri
+DERS-6 Analog Devre  Elemanlarý
+DERS-7 Doðru Akým Esaslarý
+DERS-8 Alternatif Akým Esaslarý
+DERS-8 Dogrultmaçlar Ve Regüle Devreleri
+DERS-9 Amplifikatörler
+DERS-10 Anahtarlama Elemanlarý
+DERS-11 Osilatörler Ve Filitre Devreleri
+DERS-12 Ýþlemsel Yukselteçler
+DERS-13 Ardýþýk Mantýk Devreleri
