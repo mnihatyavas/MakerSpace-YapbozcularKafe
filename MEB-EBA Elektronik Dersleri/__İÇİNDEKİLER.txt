@@ -2,84 +2,165 @@
 Kitap adý: MEB-EBA Meslek Liseleri Elektrik-Elektronik dersleri
 Özetleme ve LTspice simülasyonlarý
 -------------------------------------
-DERS-1 Lehimleme Ve Baský Devreleri
-   1. LEHÝMLEMEDE KULLANILAN MALZEMELER
-   1.1. Lehimleme
-   1.2. Lehimlemede Kullanýlan Elemanlar
-   1.2.1. Lehim (Lehim Teli)
-   1.2.2. Lehim Pastasý
-   1.2.3. Havya
-   1.2.4. Lehim Pompasý
-   1.2.5. Havya Altlýklarý
-   1.2.5. Sýcak Hava Ýstasyonu
-   1.2.6. Havya Ucu Temizleme Teli
-   1.2.7. IR-DA Ýstasyonu
-   1.2.8. Rework Ýstasyonu
-   1.2.9. Isýtýcý
-   1.2.10. Flux
-   1.2.11. Cýmbýzlar
-   1.2.12. Mikroskop
-   1.2.13. Lehim Sökme Teli (Mas Teli) (Solder Wick)
-   1.2.14. Isopropanol (Ýzopropil Alkol)
-   1.3. Lehimleme Çeþitleri
-   1.3.1. Yumuþak Lehimleme
-   1.3.2. Sert Lehimleme
-   1.4. Lehimleme Yöntemleri
-   1.4.1. Lehim Yerinin Temizlenmesi
-   1.4.2. Havya Ucunun Lehimlemeye Hazýrlanmasý
-   1.4.3. Lehimlemenin Yapýlmasý
-   1.4.4. Uygulamanýn Kontrolü
-   1.4.5. Tellerin Kesilmesi
-   1.5. Ýyi Bir Lehimlemede Olmasý Gereken Özellikler
-   1.6. Devre Elemanlarýnýn Lehimlenmesi
-   1.6.1. Elektronik Devre Elemanlarýný (Diyot, Direnç, Entegre vb.) Lehimlenmesi
-   1.6.2. Üniversal Plaket Üzerinde Nokta Lehimleme
-   1.6.3. Ýletken Uçlarýnýn Lehimlenmesi (Ön Lehimleme)
-   1.6.4. Ýletkenlerin Birbirine Lehimlenmesi
-   1.6.5. Devre Elemanlarýnýn Plaket Üzerine Lehimlenmesi
-   1.6.6. Entegrelerin Plaket Üzerine Lehimlenmesi
-   1.7. Lehim Sökmede Dikkat Edilmesi Gereken Hususlar
-   2. BASKI DEVRE
-   2.1. Baský Devre
-   2.2. Baský Devre Plaketi ve Yapýsý
-   2.3. Baský Devre Plaketinin Boyutlandýrýlmasý
-   2.4. Yerleþtirilme Þekli ve Montaj Ölçülerinin Ayarlanmasý
-   2.5. Baský Devre Plaketinin Hazýrlanmasý
-   2.5.1. Giyotin Makasla Kesme
-   2.5.2. Maket Býçaðý ile Kesme
-   2.5.3. Testere ile Kesme
-   2.6. Patern Oluþturma ve Aþamalarý
-   2.7. Paternin Baský Devre Plakete Aktarýlma Yöntemleri
-   2.7.1. Baský Devre Kalemi Metodu
-   2.7.2. Foto Rezist Metodu
-   2.7.3. Serigrafi Metodu
-   2.8. Patern Oluþtururken Dikkat Edilecek Hususlar
-   DEÐERLER ETKÝNLÝÐÝ
-   UYGULAMA FAALÝYETÝ
-   ÖLÇME VE DEÐERLENDÝRME
-   ÖÐRENME FAALÝYETÝ–3
-   3. BASKI DEVRE UYGULAMASI
-   3.1. Paternin Plaket Üzerine Aktarýlma Yöntemleri
-   3.2. Pozlandýrma Ýþlemi
-   3.2.1. Foto Rezist Yönteminde Pozlandýrma Ýþlemi
-   3.2.2. Serigrafi Yönteminde Pozlandýrma Ýþlemi
-   3.3. Plaketin Banyo Ýþlemi
-   3.4. Plaketin Aside Atýlmasý Ýþlemi
-   3.4. Plaketin Delinmesi
-   3.5. Plaket Üzerine Devre Elemanlarýnýn Montajý
-   UYGULAMA FAALÝYETÝ
-   ÖLÇME VE DEÐERLENDÝRME 
+DERS-01 LEHÝMLEME VE BASKI DEVRELERÝ
+    1. LEHÝMLEMEDE KULLANILAN MALZEMELER
+    1.1. Lehimleme
+    1.2. Lehimlemede Kullanýlan Elemanlar
+    1.2.1. Lehim (Lehim Teli)
+    1.2.2. Lehim Pastasý
+    1.2.3. Havya
+    1.2.4. Lehim Pompasý
+    1.2.5. Havya Altlýklarý
+    1.2.5. Sýcak Hava Ýstasyonu
+    1.2.6. Havya Ucu Temizleme Teli
+    1.2.7. IR-DA Ýstasyonu
+    1.2.8. Rework Ýstasyonu
+    1.2.9. Isýtýcý
+    1.2.10. Flux
+    1.2.11. Cýmbýzlar
+    1.2.12. Mikroskop
+    1.2.13. Lehim Sökme Teli (Mas Teli) (Solder Wick)
+    1.2.14. Isopropanol (Ýzopropil Alkol)
+    1.3. Lehimleme Çeþitleri
+    1.3.1. Yumuþak Lehimleme
+    1.3.2. Sert Lehimleme
+    1.4. Lehimleme Yöntemleri
+    1.4.1. Lehim Yerinin Temizlenmesi
+    1.4.2. Havya Ucunun Lehimlemeye Hazýrlanmasý
+    1.4.3. Lehimlemenin Yapýlmasý
+    1.4.4. Uygulamanýn Kontrolü
+    1.4.5. Tellerin Kesilmesi
+    1.5. Ýyi Bir Lehimlemede Olmasý Gereken Özellikler
+    1.6. Devre Elemanlarýnýn Lehimlenmesi
+    1.6.1. Elektronik Devre Elemanlarýný (Diyot, Direnç, Entegre vb) Lehimlenmesi
+    1.6.2. Üniversal Plaket Üzerinde Nokta Lehimleme
+    1.6.3. Ýletken Uçlarýnýn Lehimlenmesi (Ön Lehimleme)
+    1.6.4. Ýletkenlerin Birbirine Lehimlenmesi
+    1.6.5. Devre Elemanlarýnýn Plaket Üzerine Lehimlenmesi
+    1.6.6. Entegrelerin Plaket Üzerine Lehimlenmesi
+    1.7. Lehim Sökmede Dikkat Edilmesi Gereken Hususlar
+        EBA011.asc:1. Lehimleme ve baský devreleri-1 örneði.
+    2. BASKI DEVRE
+    2.1. Baský Devre
+    2.2. Baský Devre Plaketi ve Yapýsý
+    2.3. Baský Devre Plaketinin Boyutlandýrýlmasý
+    2.4. Yerleþtirilme Þekli ve Montaj Ölçülerinin Ayarlanmasý
+    2.5. Baský Devre Plaketinin Hazýrlanmasý
+    2.5.1. Giyotin Makasla Kesme
+    2.5.2. Maket Býçaðý ile Kesme
+    2.5.3. Testere ile Kesme
+    2.6. Patern Oluþturma ve Aþamalarý
+    2.7. Paternin Baský Devre Plakete Aktarýlma Yöntemleri
+    2.7.1. Baský Devre Kalemi Metodu
+    2.7.2. Foto Rezist Metodu
+    2.7.3. Serigrafi Metodu
+    2.8. Patern Oluþtururken Dikkat Edilecek Hususlar
+        EBA012.asc:1. Lehimleme ve baský devreleri-2 örneði.
+    3. BASKI DEVRE UYGULAMASI
+    3.1. Paternin Plaket Üzerine Aktarýlma Yöntemleri
+    3.2. Pozlandýrma Ýþlemi
+    3.2.1. Foto Rezist Yönteminde Pozlandýrma Ýþlemi
+    3.2.2. Serigrafi Yönteminde Pozlandýrma Ýþlemi
+    3.3. Plaketin Banyo Ýþlemi
+    3.4. Plaketin Aside Atýlmasý Ýþlemi
+    3.5. Plaketin Delinmesi
+    3.6. Plaket Üzerine Devre Elemanlarýnýn Montajý
+        EBA013.asc:1. Lehimleme ve baský devreleri-3 örneði.
 
-DERS-2 Elektriðin Temel Esaslarý
-DERS-3 Elektriksel Büyüklükler Ve Ölçülmesi
-DERS-4 Kuvvetli Akým Devreleri
-DERS-5 Zayýf Akým Devreleri
-DERS-6 Analog Devre  Elemanlarý
-DERS-7 Doðru Akým Esaslarý
-DERS-8 Alternatif Akým Esaslarý
-DERS-8 Dogrultmaçlar Ve Regüle Devreleri
-DERS-9 Amplifikatörler
-DERS-10 Anahtarlama Elemanlarý
-DERS-11 Osilatörler Ve Filitre Devreleri
-DERS-12 Ýþlemsel Yukselteçler
-DERS-13 Ardýþýk Mantýk Devreleri
+DERS-02 ELEKTRÝÐÝN TEMEL ESASLARI
+    1. ELEKTRÝK ENERJÝSÝ VE ÜRETÝMÝ
+    1.1.Elektrik Enerjisinde Kullanýlan Kaynaklar
+    1.1.1.Yenilenemeyen Enerji Kaynaklarý
+    1.1.2. Yenilenebilir Enerji Kaynaklarý
+    1.1.3. Geleceðin Enerji Kaynaklarý
+    1.2. Elektrik Enerjisinde Kullanýlan Santraller
+    1.2.1. Termik Santraller
+    1.2.2. Hidroelektrik Santraller
+    1.2.3. Nükleer Santraller
+    1.2.4. Jeotermal Santraller
+    1.2.5. Güneþ Santralleri (Güneþ Panelleri)
+    1.2.6. Rüzgâr Santraller
+    1.2.7. Gel-Git Santraller
+    1.3. Atom Yapýsý ve Elektron Teorisi
+    1.3.1. Atom ve Yapýsý
+    1.3.2. Ýletken
+    1.3.3. Yarý Ýletken
+    1.3.4. Yalýtkan
+    1.4. Elektrik Yükü ve Birimi
+    1.5. Coulomb Kanunu
+    1.6. Elektriklenme ve Yöntemleri
+    1.6.1. Sürtünme ile Elektriklenme
+    1.6.2. Dokunma ile Elektriklenme
+    1.6.3. Etki ile Elektriklenme
+    1.7. Elektrik Alaný
+    1.8. Elektrik Potansiyeli
+    1.8.1. Þimþek ve Yýldýrým
+    1.9. Statik Elektrik (Elektrostatik)
+    1.9.1. Statik Elektriðin Ölçülmesi
+        EBA021.asc:1.Elektriðin temel esaslarý, üretimi, akým ve gerilim-1 örneði.
+    2. ELEKTRÝK AKIMI VE ETKÝLERÝ
+    2.1. Elektrik Akýmý
+    2.2. Elektrik Akýmýnýn Geçiþleri
+    2.2.1. Elektrik Akýmýnýn Metallerden Geçiþi
+    2.2.2. Elektrik Akýmýnýn Sývýlardan Geçiþi
+    2.2.3. Elektrik Akýmýnýn Gazlardan Geçiþi
+    2.3. Elektrik Akýmý Birimleri
+    2.4. Elektrik Akýmý Çeþitleri
+    2.4.1. Doðru Akým (DC, DA)
+    2.4.2. Alternatif Akým (AC, AA)
+    2.5. Elektrik Akýmýn Isý Etkisi
+    2.5.1. Akým Geçiren Ýletkenlerin Isýnmasý
+    2.5.2. Ýletkenlerin Kabul Edilebilir Isýnma Düzeyleri
+    2.6. Joule Kanunu
+    2.6.1. Isýtýcý Hesaplamasý
+    2.7. Elektrik Akýmýn Iþýk Etkisi
+    2.8. Elektrik Akýmýn Manyetik Etkisi
+    2.8.1. Mýknatýslýk
+    2.8.2. Manyetik Maddeler
+    2.8.3. Manyetik Olmayan Maddeler
+    2.8.4. Mýknatýs ve Kutuplarý
+    2.8.5. Manyetik Alan ve Manyetik Kuvvet Çizgileri
+    2.8.6. Sað El Kaidesi
+    2.8.7. Manyetik Alanýn Sakýncalarý
+    2.8.8. Elektromýknatýs
+    2.9. Elektrik Akýmýn Kimyasal Etkisi
+    2.9.1. Elektroliz
+    2.9.2. Çeþitli Kavramlar
+    2.9.3. Elektroliz Olayý
+    2.9.4. Elektrolizin Kullaným Alanlarý
+    2.10. Piller
+    2.10.1. Pil Çeþitleri
+    2.11. Elektrik Akýmýnýn Bedensel Etkisi
+    2.12. Akým Yoðunluðu
+        EBA022.asc:1.Elektriðin temel esaslarý, üretimi, akým ve gerilim-2 örneði.
+    3. GERÝLÝM VE ELEKTROMOTOR KUVVET
+    3.1. Gerilim ve EMK
+    3.2. Gerilim Üretme Yöntemleri
+    3.3. Gerilim Birim Dönüþümleri
+    DEÐERLER ETKÝNLÝÐÝ
+    UYGULAMA FAALÝYETÝ
+    ÖLÇME VE DEÐERLENDÝRME
+    MODÜL DEÐERLENDÝRME
+    CEVAP ANAHTARLARI
+    KAYNAKÇA
+
+DERS-03 Elektriksel Büyüklükler Ve Ölçülmesi
+DERS-04 Kuvvetli Akým Devreleri
+DERS-05 Zayýf Akým Devreleri
+DERS-06 Tesisat Atölyesi
+DERS-07 Doðru Akým Esaslarý
+DERS-08 Alternatif Akým Esaslarý
+DERS-09 Temel Elektrik Elektronik Esaslarý
+DERS-10 Analog Devre  Elemanlarý
+DERS-11 Dogrultmaçlar Ve Regüle Devreleri
+DERS-12 Amplifikatörler
+DERS-13 Analog Elektronik Atölyesi
+DERS-14 Anahtarlama Elemanlarý
+DERS-15 Osilatörler Ve Filitre Devreleri
+DERS-16 Ýþlemsel Yukselteçler
+DERS-17 Ardýþýk Mantýk Devreleri
+DERS-18 Elektronik Atölyesi
+DERS-19 Analog Dijital Elektronik Atölyesi
+DERS-20 Elektronik Uygulamalarý
+DERS-21 Endüstriyel Elektronik Derleme
+DERS-22 Bilgisayarla Devre Dizayný
