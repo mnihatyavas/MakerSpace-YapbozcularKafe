@@ -252,9 +252,7 @@ DERS-03 ELEKTRÝKSEL BÜYÜKLÜKLER VE ÖLÇÜLMESÝ
     8.7. Elektriksel Ýþ ve tanýmýný
     8.8. Sayaç baðlantýsý
     8.9. Sayaç ile iþ ölçümünde dikkat edilecek hususlar
-    UYGULAMA FAALÝYETÝ
-    ÖLÇME DEÐERLENDÝRME
-    ÖÐRENME FAALÝYETÝ-9
+        EBA038.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-8 örneði.
     9. OSÝLOSKOP
     9.1. Osiloskobun Tanýtýlmasý
     9.2. Osiloskop ile ölçülecek büyüklükler
@@ -263,15 +261,185 @@ DERS-03 ELEKTRÝKSEL BÜYÜKLÜKLER VE ÖLÇÜLMESÝ
     9.4.1. Alternatif gerilim ölçmek
     9.4.2. Doðru gerilim ölçmek
     9.5. Frekans Ölçmek
-    DEÐERLER ETKÝNLÝÐÝ
-    UYGULAMA FAALÝYETÝ
-    ÖLÇME DEÐERLENDÝRME
-    MODÜL DEÐERLENDÝRME
-    CEVAP ANAHTARLARI
-    KAYNAKLAR
+        EBA039.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-9 örneði.
 
-DERS-04 Kuvvetli Akým Devreleri
-DERS-05 Zayýf Akým Devreleri
+DERS-04 KUVVETLÝ AKIM DEVRELERÝ
+    1. AYDINLATMA DEVRELERÝ
+    1.1. Aydýnlatma Tesisatýnda Kullanýlan El Aletleri
+    1.1.1. Metal Çekiç
+    1.1.2. Düz Uçlu Keski
+    1.1.3. Aðaç Testeresi
+    1.1.4. Darbeli Matkap
+    1.1.5. Kýrýcý Matkap
+    1.1.6. Kýrýcý-Delici Matkap
+    1.1.7. Þarjlý El Matkabý
+    1.1.8. Kombine Anahtar Takýmý
+    1.1.9. Merdiven
+    1.1.10. Ispatula
+    1.1.11. Murç
+    1.1.12. Kýlavuz (Susta)
+    1.1.13. Kazma
+    1.1.14. Kürek
+    1.1.15. Kanal Açma Makinesi
+    1.1.16. Panç Testere Seti
+    1.2. Aydýnlatma Tesisatýnda Kullanýlan Elektrik Malzemeleri
+    1.2.1. Duylar
+    1.2.2. Lambalar
+    1.2.3. Armatürler
+    1.2.4. Buatlar (Ek Kutular)
+    1.2.5. Tesisat Borularý ve Ek Parçalar
+    1.2.6. Anahtar Kasalarý
+    1.2.7. Kroþeler
+    1.2.8. Kanallar
+    1.2.9. Dübeller
+    1.3. Aydýnlatma Tesisatýnda Kullanýlan Daðýtým Panolarý
+    1.3.1. Daðýtým Tablosunun Görevi
+    1.3.2. Daðýtým Tablolarýnýn Çeþitleri ve Özellikleri
+    1.3.3. Aydýnlatma Daðýtým Tablolarý
+    1.4. Aydýnlatma Tesisatlarýnda Kullanýlan Kumanda ve Kontrol Elemanlarý
+    1.4.1. Sigortalar
+    1.4.2. Kaçak Akým Koruma Rölesi (KAKR)
+    1.4.3. Elektrik Tesisat Anahtarlarý
+    1.4.4. Darbe Akýmlý Röle (Ýmpuls Röle)
+    1.4.5. Merdiven Otomatiði
+    1.4.6. Zaman Saati
+    1.4.7. Aydýnlatma Kontrol Sensörleri
+    1.5. Aydýnlatma Devrelerinde Kullanýlan Ýletkenlerin Kesit Renk ve Standartlarý
+    1.5.1. Aydýnlatma Linyesi
+    1.5.2. Aydýnlatma Sortisi
+        EBA041a.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-1a örneði.
+    1.6. Aydýnlatma Tesisat Devrelerinin Þema Çizimleri ve Kurulumlarý
+    1.6.1. Adi Anahtar Tesisatý
+    1.6.2. Komütatör Anahtar Tesisatý
+    1.6.3. Vaviyen Anahtar Tesisatý
+    1.6.4. Ara Vaviyen Anahtar Tesisatý
+    1.6.5. Dimmer Anahtar Tesisatý
+    1.6.6. Floresan Lamba Tesisatý
+    1.7. Topraklama
+    1.7.1. Topraklamanýn Ýþlev ve Görevleri
+    1.7.2. Topraklamaya Ýliþkin Tanýmlar
+    1.7.3. Topraklama Topraklayýcý Çeþitleri ve Elemanlarý
+    1.7.4. Topraklama Elemanlarý
+    1.7.5. Temel Topraklamasý
+    1.7.6. Topraklama Kablosu
+        EBA041b.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-1b örneði.
+    2. PRÝZ DEVRELERÝ
+    2.1. Fiþ ve Priz Tesisatlarýnda Kullanýlan El Aletleri
+    2.2. Fiþler ve Ýþlevleri
+    2.2.1. Jaklar
+    2.3. Fiþ Baðlantýlarý
+    2.4. Priz Tesisatý Malzemeleri
+    2.4.1. Prizlerin Görevleri ve Özellikleri
+    2.4.2. Prizlerin Çeþitleri
+    2.5. Priz Tesisatlarýnda Kullanýlan Ýletkenlerin Kesit, Renk ve Standartlarý
+    2.5.1. Priz Linyesi
+    2.5.2. Priz Sortisi
+    2.6. Priz Tesisatý Devrelerinin Þema Çizimleri
+    2.7. Priz Tesisatý Yapým Aþamalarý
+    2.8. Priz Tesisatý Yapým ve Montajýnda Dikkat Edilecek Hususlar
+        EBA042.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-2 örneði.
+
+DERS-05 ZAYIF AKIM DEVRELERÝ
+    AÇIKLAMALAR .iv
+    GÝRÝÞ .1
+    ÖÐRENME FAALÝYETÝ–1 3
+    1. ÝLETKEN EKLERÝ
+    1.1. Ýletken Eklemede Kullanýlan El Aletleri Ve Standartlarý
+    1.1.1. Yan Keski
+    1.1.2. Pense
+    1.1.3. Kerpeten
+    1.1.4. Kargaburnu
+    1.1.5. Maket Býçaðý
+    1.1.6. Demir Testeresi
+    1.1.7. Havya
+    1.1.8. Tornavidalar
+    1.1.9. Kablo Soyucu Pensi
+    1.1.10. Kablo Pabucu Sýkma Pensleri
+    1.2. Kablolarýn Sýnýflandýrýlmasý
+    1.3. Kullaným Yerlerine Göre Kablo Çeþitleri
+    1.3.1. Tek Damarlý Kablolar (NYA)
+    1.3.2. Spiralli Tek Damarlý Kablolar (Spiralli NYA)
+    1.3.3. Tek Damarlý Çok Telli Kablolar (NYAF)
+    1.3.4. Silikonlu NYAF Kablo
+    1.3.5. Çok Damarlý, Çok Telli Kablolar: TTR Kablolar (NYMHY)
+    1.3.7. Siyah Antigron Kablolar (NYY) - (YVV)
+    1.3.8. Alüminyum Ýletkenli Alçak Gerilim Kablosu (YAVV-NAYY)
+    1.3.9. Alüminyum Ýletkenli Aský Telli Havai Kablo (Alpek kablo)
+    1.3.10. Yangýna dayanýklý (Halojen Free), NYA, NYAF, TTR Tesisat Enerji Kablosu
+    1.3.11. Sinyal ve Kontrol Kablolarý
+    1.3.12. Fiber Optik Kablo
+    1.4. Ýletken Kesitleri
+    1.5. Ýletken Baðlantý Çeþitleri
+    1.5.1. Düz Ek
+    1.5.2. T Ek
+    1.5.3. Çift T Ek
+    1.5.4. Özel Ekler
+    1.5.5. Kablo Pabucu ve Jaklar
+    1.5.6. Kablo Yüksükleri ve Kullanýldýðý Yerler
+    1.6. Ýletken Baðlantý Yapým Aþamalarý
+    1.6.1. Ýletkenlerin Kesilmesi ve Kesme Ýþinde Kullanýlan Aletler
+    1.6.2. Ýletken Yalýtkanýnýn Soyulmasý ve Soyma Ýþinde Kullanýlan Aletler
+    1.6.3. Ýletkenlerin Bükülmesi ve Bükme Ýþlerinde Kullanýlan Aletler
+    1.6.4. Ýletkenlerin Terminallere (Baðlantý Yeri) Baðlanmasý
+    1.6.5. Düz ek yapýmý (Bir damarlý iletkenlerin eklenmesi)
+    1.6.6. Çift Düz Ek (Tek Damarlý Ýkili Kordon veya Kablolarýn Eklenmesi)
+    1.6.7. T ek yapýmý
+    1.6.8. Çift T Ek Yapýmý
+    1.6.9. Jak, Kablo Pabucu Ve Yüksük Baðlantýlarý
+    1.7. Ýletken Baðlantý Noktalarýnýn Yalýtýmý Ve Lehimleme
+    1.8. Klemens ve Çeþitleri
+    1.9. Klemens Baðlantýsý Yapýlýrken Dikkat Edilecek Hususlar
+DEÐERLER ETKÝNLÝÐÝ33
+UYGULAMA FAALÝYETÝ 35
+ÖLÇME VE DEÐERLENDÝRME 46
+ÖÐRENME FAALÝYETÝ–2 50
+    2. ZAYIF AKIM TESÝSAT DEVRELERÝ
+    2.1. Zayýf Akým Tesisat Devrelerinde Kullanýlan El Aletleri
+    2.1.1. Kontrol Kalemi
+    2.1.2. Elektronikçi Tip Tornavida
+    2.1.3. Elektronikçi Tip Pense
+    2.2. Zayýf Akým Tesisat Devrelerinde Kullanýlan Malzemeler ve Çalýþma Prensipleri
+    2.2.1. Zil Transformatörü (Trafosu)
+    2.2.2. Sigorta
+    2.2.3. Buton
+    2.2.4. Ziller
+    2.2.5. Kapý Otomatiði
+    2.2.6. Diyafon Sistemleri
+    2.2.7. Montaj Ekipmanlarý
+    2.3. Zayýf Akým Tesisatýnda Kullanýlan Kablolar
+    2.3.1. Zil Tesisatý Kablolarý
+    2.3.2. Kordon Kablolar
+    2.3.3. Anten Kablolarý (Koaksiyel Kablolar)
+    2.3.4. Diyafon Kablolarý
+    2.3.5. Kamera Güvenlik Kablolarý (CCTV)
+    2.3.6. Data (Veri) Kablolarý
+    2.3.7. Telefon Kablolarý
+    2.4. Zayýf Akým Devre Çeþitleri
+    2.4.1. Devre Çeþitleri
+    2.4.2. Zayýf Akým Devreleri
+    2.5. Zayýf Akým Tesisat Devrelerinin Kullaným Amaçlarý
+    2.5.1. Zil Tesisatýnýn Kullaným Amacý
+    2.5.2. Kapý Otomatiði Tesisatýnýn Kullaným Amacý
+    2.5.3. Hýrsýz Alarm Tesisatýnýn Kullaným Amacý
+    2.5.4. Yangýn Alarm Tesisatýnýn Kullaným Amacý
+    2.5.5. Apartman Sesli Haberleþme Diyafon Tesisatýnýn Kullaným Amacý
+    2.5.6. Görüntülü Haberleþme Tesisatýnýn Kullaným Amacý
+    2.5.7. Televizyon (TV) Tesisatýnýn Kullaným Amacý
+    2.5.8. Telefon Tesisatýnýn Kullaným Amacý
+    2.6. Zayýf Akým Çaðýrma Tesisatlarý Çizimleri ve Çalýþma Prensipleri
+    2.6.1. Ýki Buton ile Bir Zil Çalýþtýrma Devre Çizimi
+    2.6.2. Bir Buton Ýle Ýki Zil Çalýþtýrma Devre Çizimi
+    2.6.3. Karþýlýklý Çaðýrma Tesisatý Devre Çizimi
+    2.6.4. Bir Kat Bir Daireli Zil Tesisatý Devre Çizimi
+    2.6.5. Bir Kat Ýki Daireli Zil Tesisatý Devre Çizimi
+    2.6.6. Bir Kat Bir Daireli Kapý Otomatiði ve Zil Tesisatý Devre Çizimi Ve Çalýþma Prensibi
+DEÐERLER ETKÝNLÝÐÝ
+UYGULAMA FAALÝYETÝ 77
+ÖLÇME VE DEÐERLENDÝRME 97
+MODÜL DEÐERLENDÝRME 101
+CEVAP ANAHTARLARI.103
+KAYNAKÇA.105
+
 DERS-06 Tesisat Atölyesi
 DERS-07 Doðru Akým Esaslarý
 DERS-08 Alternatif Akým Esaslarý
@@ -304,3 +472,8 @@ EBA034.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-
 EBA035.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-5 örneði.
 EBA036.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-6 örneði.
 EBA037.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-7 örneði.
+EBA038.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-8 örneði.
+EBA039.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-9 örneði.
+EBA041a.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-1a örneði.
+EBA041b.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-1b örneði.
+EBA042.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-2 örneði.
