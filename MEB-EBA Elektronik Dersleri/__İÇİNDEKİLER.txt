@@ -340,9 +340,6 @@ DERS-04 KUVVETLÝ AKIM DEVRELERÝ
         EBA042.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-2 örneði.
 
 DERS-05 ZAYIF AKIM DEVRELERÝ
-    AÇIKLAMALAR .iv
-    GÝRÝÞ .1
-    ÖÐRENME FAALÝYETÝ–1 3
     1. ÝLETKEN EKLERÝ
     1.1. Ýletken Eklemede Kullanýlan El Aletleri Ve Standartlarý
     1.1.1. Yan Keski
@@ -389,10 +386,7 @@ DERS-05 ZAYIF AKIM DEVRELERÝ
     1.7. Ýletken Baðlantý Noktalarýnýn Yalýtýmý Ve Lehimleme
     1.8. Klemens ve Çeþitleri
     1.9. Klemens Baðlantýsý Yapýlýrken Dikkat Edilecek Hususlar
-DEÐERLER ETKÝNLÝÐÝ33
-UYGULAMA FAALÝYETÝ 35
-ÖLÇME VE DEÐERLENDÝRME 46
-ÖÐRENME FAALÝYETÝ–2 50
+        EBA051.asc: Ýletken ekleri yapma ve zayýf akým tesisat devreleri-1 örneði.
     2. ZAYIF AKIM TESÝSAT DEVRELERÝ
     2.1. Zayýf Akým Tesisat Devrelerinde Kullanýlan El Aletleri
     2.1.1. Kontrol Kalemi
@@ -433,14 +427,138 @@ UYGULAMA FAALÝYETÝ 35
     2.6.4. Bir Kat Bir Daireli Zil Tesisatý Devre Çizimi
     2.6.5. Bir Kat Ýki Daireli Zil Tesisatý Devre Çizimi
     2.6.6. Bir Kat Bir Daireli Kapý Otomatiði ve Zil Tesisatý Devre Çizimi Ve Çalýþma Prensibi
-DEÐERLER ETKÝNLÝÐÝ
-UYGULAMA FAALÝYETÝ 77
-ÖLÇME VE DEÐERLENDÝRME 97
-MODÜL DEÐERLENDÝRME 101
-CEVAP ANAHTARLARI.103
-KAYNAKÇA.105
+        EBA052.asc: Ýletken ekleri yapma ve zayýf akým tesisat devreleri-2 örneði.
 
-DERS-06 Tesisat Atölyesi
+DERS-06 TESÝSAT ATÖLYESÝ
+    ÖÐRENME BÝRÝMÝ 1: TOPRAKLAMA VE PARATONER TESÝSATLARI
+    1.1. TOPRAKLAMA VE ÖNEMÝ
+    1.1.1. Topraklamanýn Tanýmý ve Gerekliliði
+    1.1.2. Topraklama Çeþitleri
+    1.2. BÝNA TEMEL TOPRAKLAMA SÝSTEMLERÝ
+    1.2.1. Bina Temel Topraklamasý
+    1.2.2. Bina Temel Topraklama Ekipmanlarý
+    1.2.3. Bina Temel Topraklamasýnda Dikkat Edilecek Hususlar
+    1.3.1. Eþ Potansiyel Baranýn Görevi ve Baðlantýsý
+    1.3.2. Eþ Potansiyel Bara Baðlantýsý Yapýlýrken Dikkat Edilecek Hususlar
+    1.4. TOPRAKLAMA KOLON HATTININ ÇEKÝLMESÝ
+    1.4.1. Topraklama Kolon Hattý
+    1.4.2. Topraklama Kolon Hattýnýn Özellikleri
+    1.4.3. Topraklama Kolon Hattýnýn Tesisinde Dikkat Edilecek Hususlar
+    1.5. DAÐITIM TABLO VE PANOLARININ TOPRAKLANMASI
+    1.5.1. Daðýtým Tablolarý ve Panolarýnýn Topraklanmasýnýn Önemi
+    1.5.2. Daðýtým Tablolarý ve Panolarýnýn Topraklanmasýnda Dikkat Edilecek Hususlar
+    1.6. MAKÝNE VE ELEKTRÝKLÝ CÝHAZLARIN TOPRAKLANMASI
+    1.6.1. Makine ve Elektrikli Cihazlarýn Gövde Topraklamasýnýn Önemi
+    1.6.2. Cihaz Topraklamalarýnýn Yapýlmasýnda Dikkat Edilecek Hususlar
+    1.7. ELEKTRÝK TESÝSLERÝNÝN TOPRAKLAMA VE YALITKANLIK DÝRENCÝNÝN ÖLÇÜMÜ
+    1.7.1. Meger Cihazý ve Donanýmlarý
+    1.7.2. Meger ile Topraklama Direnci Ölçme
+    1.7.3. Dijital Meger Cihazýyla Topraklama Direnci Ölçümünde Dikkat Edilecek Hususlar
+    1.8. BÝNALARIN PARATONER SÝSTEMÝ MONTAJI
+    1.8.1. Paratoner Tesisatý ve Donanýmý
+    1.8.2. Paratoner Tesisatý Kurulurken Dikkat Edilecek Hususlar
+        EBA061.asc: Binalarda topraklama ve paratoner tesisat devreleri-1 örneði.
+    ÖÐRENME BÝRÝMÝ 2: BORU, KANAL VE TAÞIYICI TESÝSATLAR
+    2.1. SIVA ÜSTÜ TESÝSATLARI
+    2.1.1. Tanýmý
+    2.1.2. Sýva Üstü Tesisatlarýnda Kullanýlan Malzemeler
+    2.1.3. Ýç Tesisat Yönetmeliði’ne Uygun Olarak Sýva Üstü Tesisatlarýn Yapýlmasýnda Dikkat Edilecek Hususlar
+    2.2. YER DÖÞEME ALTI TESÝSATLARI
+    2.2.1. Yer Döþeme Altý Tesisatýnýn Tanýmý
+    2.2.2. Yer Döþeme Altý Tesisatlarýnda Kullanýlan Malzemeler
+    2.2.3. Ýç Tesisat Yönetmeliði’ne Uygun Olarak Yer Döþeme Altý Tesisatlarýn Yapýlmasýnda Dikkat Edilecek Hususlar
+    2.3. SIVA ALTI TESÝSATLARI
+    2.3.1. Sýva Altý Tesisatýnýn Tanýmý
+    2.3.2. Sýva Altý Tesisatlarýnda Kullanýlan Malzemeler
+    2.3.3. Ýç Tesisat Yönetmeliði’ne Uygun Olarak Sýva Altý Tesisatlarýn Yapýlmasýnda Dikkat Edilecek Hususlar
+        EBA062.asc: Sýva üstü/altý ve döþeme altý boru, kanal, taþýyýcý tesisat devreleri-2 örneði.
+    ÖÐRENME BÝRÝMÝ 3: BUSBAR SÝSTEMLER
+    3.1. BUSBAR SÝSTEMÝ EKÝPMANLARI
+    3.1.1. Busbar Sistemi Tanýmý ve Kullaným Alanlarý
+    3.1.2. Busbar Sisteminde Kullanýlan Ekipmanlar
+    3.2. BUSBAR HATTI MONTAJI
+    3.2.1. Busbar Kanallarýnýn Montajý
+    3.2.2. Busbar Sisteminin Montajýnda Dikkat Edilmesi Gereken Noktalar
+    3.3. BUSBAR HATTI MODÜL BAÐLANTILARI
+    3.3.1. Busbar Çýkýþ Kutularýnýn Montajý
+    3.3.2. Busbar Sisteminde Kullanýlan Priz ve Aydýnlatma Modüllerinin Montajý
+    3.3.3. Busbar Sistemine Enerji Giriþi ve Çýkýþ Modüllerine Alýcý Baðlantýsý
+        EBA063.asc: Busbar sistem ekipmanlarý ve montajý devreleri-3 örneði.
+    ÖÐRENME BÝRÝMÝ 4: TELEFON VE ANTEN TESÝSATLARI
+    4.1. TELEFON TESÝSATI
+    4.1.1. Telefon Tesisatý Ekipmanlarý
+    4.1.2. Telefon Tesisatý Projeleri
+    4.2. ANTEN TESÝSATI
+    4.2.1. Anten Tesisatýnda Kullanýlan Malzemeler
+    4.2.2. Headend Ünitesi
+    4.2.3. Anten Tesisatý Projesinde Dikkat Edilecek Hususlar
+        EBA064.asc: Telefon ve anten tesisatlarý ve montajý devreleri-4 örneði.
+    ÖÐRENME BÝRÝMÝ 5: AKILLI EV TESÝSATLARI
+    5.1. AKILLI EV SÝSTEMLERÝ ELEMANLARININ MONTAJ VE BAÐLANTILARI
+    5.1.1. Akýllý Ev Sistemlerinde Kullanýlan Haberleþme Protokolleri
+    5.1.2. Akýllý Ev Tesisatlarýnda Kullanýlan Ekipmanlar ve Görevleri
+    5.1.3. KNX Sisteminde Akýllý Ev Tesisat Donanýmlarýnýn Montajý ve Baðlantýsý
+    5.2. AKILLI EV SÝSTEMÝ DONANIMLARININ SEÇÝLMESÝ VE PROJELENDÝRÝLMESÝ
+    5.2.1. Donanýmlarýn Seçilmesi
+    5.2.2. Akýllý Ev Tesisatý Projelendirilmesinde Dikkat Edilecek Hususlar
+    5.2.3. Akýllý Ev Tesisatý Proje Çizimi ve Okunmasý
+        Temrin Yapraðý 37: Zemin Kat Akýllý Ev Tesisat Projelerinin Çiziminin Yapýlmasý
+        Temrin Yapraðý 38: 1. Kat Akýllý Ev Tesisat Projelerinin Çizmek
+        Temrin Yapraðý 39: Otomasyon Tek Hat Þemasýnýn Çizilmesi
+        Temrin Yapraðý 40: Kuvvet Tek Hat Þemasýnýn Çizilmesi
+    5.3. AKILLI EV SÝSTEMÝNÝN PROGRAMLANMASI VE DEVREYE ALINMASI
+    5.3.1. Akýllý Ev Tesisatlarýnda Senaryo ve Senaryonun Oluþturulmasý
+    5.3.2. Akýllý Ev Sistemlerine Uzaktan Eriþim
+    5.3.3. Akýllý Ev Tesisatlarýnda Programlama
+        Temrin Yapraðý 41: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-1
+        Temrin Yapraðý 42: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-2
+        Temrin Yapraðý 43: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-3
+        Temrin Yapraðý 44: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-4
+        Temrin Yapraðý 45: Akýllý Ev Sistemlerinde Güneþlik Kontrolü Uygulamasý-1
+        Temrin Yapraðý 46: Akýllý Ev Sistemlerinde Güneþlik Kontrolü Uygulamasý-2
+        Temrin Yapraðý 47: Akýllý Ev Sistemlerinde Fan-Coil Kontrolü Uygulamasý
+        Temrin Yapraðý 48: Akýllý Ev Sistemlerinde VRF/VRV Sistemler Uygulamasý
+        Temrin Yapraðý 49: Akýllý Ev Sistemlerinde Güvenlik Sistemleri Uygulamasý
+ÖÐRENME BÝRÝMÝ 5 ÖLÇME YAPRAÐI
+ÖÐRENME BÝRÝMÝ 6: KUVVET TESÝSATLARI
+    6.1. ÜÇ FAZLI FÝÞ VE PRÝZ BAÐLANTILARI
+    6.1.1. Üç Fazlý Fiþ ve Prizler
+    6.1.2. Üç Fazlý Fiþ ve Prizlerde Kablo Renk Standartlarý
+    6.1.3. Üç Fazlý Fiþ ve Priz Çeþitleri
+    6.1.4. Üç Fazlý Fiþ ve Priz Seçimi
+    6.1.5. Üç Fazlý Fiþ ve Priz Baðlantýsýnýn Yapýlmasý
+        Temrin Yapraðý 50: Çok Telli Kablo Uçlarýna Kablo Pabucu Montajý
+        Temrin Yapraðý 51: Üç Fazlý Fiþ Baðlantýsýnýn Yapýlmasý
+        Temrin Yapraðý 52: Üç Fazlý Priz Baðlantýsýnýn Yapýlmasý
+    6.2. ÜÇ FAZLI KOMBÝNASYON PANOSU BAÐLANTILARI
+    6.2.1. Kombinasyon Panosu Tanýmý
+    6.2.2. Kombinasyon Panosu Baðlantýsýnýn Yapýlmasý
+        Temrin Yapraðý 53: Üç Fazlý Kombinasyon Panosunun Baðlantýsýnýn Ve Montajýnýn Yapýlmasý
+    6.3. ÜÇ FAZLI PANO BAÐLANTILARI
+    6.3.1. Üç Fazlý Panolarda Elemanlarýn Pano Ýçine Yerleþimi
+    6.3.2. Üç Fazlý Pano Þemalarý
+        Temrin Yapraðý 54: Üç fazlý Pano Þemasý Çizimi
+    6.3.3. Üç Fazlý Panolarda Kýsa Devre ve Pano Gövdesine Kaçak Kontrolü
+    6.3.4. Üç Fazlý Panolarda Baðlantý Yapýlýrken Dikkat Edilecek Hususlar
+        Temrin Yapraðý 55: Üç Faz Beslemeli 5 Linyeli Bir Kat Panosunda Elemanlarýn Yerine Montajý
+        Temrin Yapraðý 56: Üç Faz Beslemeli 5 Linyeli Bir Kat Panosunda Elemanlarýn Kablo Montajý
+ÖÐRENME BÝRÝMÝ 6 ÖLÇME YAPRAÐI
+ÖÐRENME BÝRÝMÝ 7: DIÞ AYDINLATMA
+    7.1. SOKAK AYDINLATMA GEREÇLERÝ VE ÖZELLÝKLERÝ
+    7.1.1. Dýþ Aydýnlatma Armatürleri
+        Temrin Yapraðý 57: Dýþ Aydýnlatma Armatürünün Ýç Baðlantýlarýnýn Yapýlmasý
+    7.1.2. Dýþ Aydýnlatma Direkleri
+    7.1.3. Dýþ Aydýnlatmada Kullanýlan Malzemelerin Seçiminde Dikkat Edilecek Hususlar
+    7.2. SOKAK AYDINLATMA ARMATÜRLERÝNÝN MONTAJI VE BAÐLANTILARI
+    7.2.1. Dýþ Aydýnlatma Armatürlerinin Montajý
+    7.2.2. Dýþ Aydýnlatma Armatür Ve Ekipmanlarýnýn Yönetmeliklere Uygun Montajý Ýçin Dikkat Edilecek Hususlar
+        Temrin Yapraðý 58: Dýþ Aydýnlatma Armatürünün Montajý Ve Hat Baðlantýsý
+        Temrin Yapraðý 59: Dýþ Aydýnlatma Tesisatýnýn Fotosel Röle Ýle Kontrolü
+ÖÐRENME BÝRÝMÝ 7 ÖLÇME YAPRAÐI
+ÖLÇME DEÐERLENDÝRME CEVAP ANAHTARI
+SÖZLÜK
+KAYNAKÇA
+
 DERS-07 Doðru Akým Esaslarý
 DERS-08 Alternatif Akým Esaslarý
 DERS-09 Temel Elektrik Elektronik Esaslarý
@@ -477,3 +595,9 @@ EBA039.asc: AVOmetre, LCRmetre, WATTmetre, frekansmetre ve osiloskopla ölçümler-
 EBA041a.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-1a örneði.
 EBA041b.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-1b örneði.
 EBA042.asc: Aydýnlatma ve fiþ-priz tesisat aletleri ve devreleri-2 örneði.
+EBA051.asc: Ýletken ekleri yapma ve zayýf akým tesisat devreleri-1 örneði.
+EBA052.asc: Ýletken ekleri yapma ve zayýf akým tesisat devreleri-2 örneði.
+EBA061.asc: Binalarda topraklama ve paratoner tesisat devreleri-1 örneði.
+EBA062.asc: Sýva üstü/altý ve döþeme altý boru, kanal, taþýyýcý tesisat devreleri-2 örneði.
+EBA063.asc: Busbar sistem ekipmanlarý ve montajý devreleri-3 örneði.
+EBA064.asc: Telefon ve anten tesisatlarý ve montajý devreleri-4 örneði.
