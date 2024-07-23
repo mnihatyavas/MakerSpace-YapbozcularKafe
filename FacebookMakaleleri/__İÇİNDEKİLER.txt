@@ -2,6 +2,8 @@
 --------------
 http://www.facebook.com ve https://github.com/mnihatyavas/MakerSpace-YapbozcularKafe/tree/main/FacebookMakaleleri/animasyonHTML
 --------------------------------------------------------------------------------
+_mny1.html: Facebook png resmi için çerçeveli logo, slogan ve makale kodlamasý.
+_mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen sloganlý makale kodlamasý.
 202403100338: CHP ve ÝYÝ Partinin yerel seçimler öncesi demeçleri.
 202405052122: BRICS  (Brasil, Russia, India, China, South Africa) birliði.
 202405161245: Hülya Ýray'ýn BÝZ KÝMÝZ, NE ÝSTÝYORUZ? içerikli makalesi.
@@ -9,4 +11,15 @@ http://www.facebook.com ve https://github.com/mnihatyavas/MakerSpace-Yapbozcular
 202406090334: ADD ve Ankara Ulus gazetesi köþe yazarý Ali Eralp'ýn makalesi.
 202406100356: M.Nihat Yavaþ'ýn tam istihdam ve Ýþkur hk.görüþleri.
 202406121015: ADD ve Ank.Ulus gazetesi köþe yazarý Ali Eralp'ýn makalesi.
-2407151303: Zeki Yalçýdere'nin tüik tüfe aldatmacasý makalesi.
+202406150901: 15-16 Haziran 1970 iþçi direniþi 2021-TES makalesi.
+202406221716: Þiþko Freud ve sýska Nitzcshe'nin farklý emeklilik idealleri makalem.
+202406241325: Ali Eralp'in AKP normalleþme yumuþama pis kokusu makalesi.
+202406291741: Selim Dikel'den emeklilerin AKP iktidarýndan talepleri makalesi.
+202406291915: Ali Eralp'tan emeklilerin ezilip sömürülüp horlanmasý makalesi.
+202407010725: Ö.Özel ve S.Dikel'den sendika ve toplu sözleþme ihdasý makalem.
+202407010749: Selim Dikel'den AKP ve maliye bakaný baþarýsý makalesi.
+202407020915: Fatih Kaplan'ýn 2 Temmuz 1993 Sivas katliamý makalesi.
+202407051532: Fatih Kaplan'dan tanrý devletçiliði makalesi.
+202407051614: Hülya Piray'dan yalnýz baþýna ne yapýlýr makalesi.
+202407151340: Zeki Yalçýdere'nin tüik tüfe aldatmacasý makalesi.
+202407231144: 2005-2024 emekli maaþý, altýn ve asgari ücret karþýlaþtýrma tablosu.
