@@ -502,64 +502,92 @@ DERS-06 TESÝSAT ATÖLYESÝ
     5.2.1. Donanýmlarýn Seçilmesi
     5.2.2. Akýllý Ev Tesisatý Projelendirilmesinde Dikkat Edilecek Hususlar
     5.2.3. Akýllý Ev Tesisatý Proje Çizimi ve Okunmasý
-        Temrin Yapraðý 37: Zemin Kat Akýllý Ev Tesisat Projelerinin Çiziminin Yapýlmasý
-        Temrin Yapraðý 38: 1. Kat Akýllý Ev Tesisat Projelerinin Çizmek
-        Temrin Yapraðý 39: Otomasyon Tek Hat Þemasýnýn Çizilmesi
-        Temrin Yapraðý 40: Kuvvet Tek Hat Þemasýnýn Çizilmesi
     5.3. AKILLI EV SÝSTEMÝNÝN PROGRAMLANMASI VE DEVREYE ALINMASI
     5.3.1. Akýllý Ev Tesisatlarýnda Senaryo ve Senaryonun Oluþturulmasý
     5.3.2. Akýllý Ev Sistemlerine Uzaktan Eriþim
     5.3.3. Akýllý Ev Tesisatlarýnda Programlama
-        Temrin Yapraðý 41: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-1
-        Temrin Yapraðý 42: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-2
-        Temrin Yapraðý 43: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-3
-        Temrin Yapraðý 44: Akýllý Ev Sistemlerinde Aydýnlatma Tesisatý Uygulamasý-4
-        Temrin Yapraðý 45: Akýllý Ev Sistemlerinde Güneþlik Kontrolü Uygulamasý-1
-        Temrin Yapraðý 46: Akýllý Ev Sistemlerinde Güneþlik Kontrolü Uygulamasý-2
-        Temrin Yapraðý 47: Akýllý Ev Sistemlerinde Fan-Coil Kontrolü Uygulamasý
-        Temrin Yapraðý 48: Akýllý Ev Sistemlerinde VRF/VRV Sistemler Uygulamasý
-        Temrin Yapraðý 49: Akýllý Ev Sistemlerinde Güvenlik Sistemleri Uygulamasý
-ÖÐRENME BÝRÝMÝ 5 ÖLÇME YAPRAÐI
-ÖÐRENME BÝRÝMÝ 6: KUVVET TESÝSATLARI
+        EBA065.asc: Akýllý ev tesisatlarý ve montajý devreleri-5 örneði.
+    ÖÐRENME BÝRÝMÝ 6: KUVVET TESÝSATLARI
     6.1. ÜÇ FAZLI FÝÞ VE PRÝZ BAÐLANTILARI
     6.1.1. Üç Fazlý Fiþ ve Prizler
     6.1.2. Üç Fazlý Fiþ ve Prizlerde Kablo Renk Standartlarý
     6.1.3. Üç Fazlý Fiþ ve Priz Çeþitleri
     6.1.4. Üç Fazlý Fiþ ve Priz Seçimi
     6.1.5. Üç Fazlý Fiþ ve Priz Baðlantýsýnýn Yapýlmasý
-        Temrin Yapraðý 50: Çok Telli Kablo Uçlarýna Kablo Pabucu Montajý
-        Temrin Yapraðý 51: Üç Fazlý Fiþ Baðlantýsýnýn Yapýlmasý
-        Temrin Yapraðý 52: Üç Fazlý Priz Baðlantýsýnýn Yapýlmasý
     6.2. ÜÇ FAZLI KOMBÝNASYON PANOSU BAÐLANTILARI
     6.2.1. Kombinasyon Panosu Tanýmý
     6.2.2. Kombinasyon Panosu Baðlantýsýnýn Yapýlmasý
-        Temrin Yapraðý 53: Üç Fazlý Kombinasyon Panosunun Baðlantýsýnýn Ve Montajýnýn Yapýlmasý
     6.3. ÜÇ FAZLI PANO BAÐLANTILARI
     6.3.1. Üç Fazlý Panolarda Elemanlarýn Pano Ýçine Yerleþimi
     6.3.2. Üç Fazlý Pano Þemalarý
-        Temrin Yapraðý 54: Üç fazlý Pano Þemasý Çizimi
     6.3.3. Üç Fazlý Panolarda Kýsa Devre ve Pano Gövdesine Kaçak Kontrolü
     6.3.4. Üç Fazlý Panolarda Baðlantý Yapýlýrken Dikkat Edilecek Hususlar
-        Temrin Yapraðý 55: Üç Faz Beslemeli 5 Linyeli Bir Kat Panosunda Elemanlarýn Yerine Montajý
-        Temrin Yapraðý 56: Üç Faz Beslemeli 5 Linyeli Bir Kat Panosunda Elemanlarýn Kablo Montajý
-ÖÐRENME BÝRÝMÝ 6 ÖLÇME YAPRAÐI
-ÖÐRENME BÝRÝMÝ 7: DIÞ AYDINLATMA
+        EBA066.asc: Kuvvet tesisatlarýndan üç fazlý fiþ, priz ve pano devreleri-6 örneði.
+    ÖÐRENME BÝRÝMÝ 7: DIÞ AYDINLATMA
     7.1. SOKAK AYDINLATMA GEREÇLERÝ VE ÖZELLÝKLERÝ
     7.1.1. Dýþ Aydýnlatma Armatürleri
-        Temrin Yapraðý 57: Dýþ Aydýnlatma Armatürünün Ýç Baðlantýlarýnýn Yapýlmasý
     7.1.2. Dýþ Aydýnlatma Direkleri
     7.1.3. Dýþ Aydýnlatmada Kullanýlan Malzemelerin Seçiminde Dikkat Edilecek Hususlar
     7.2. SOKAK AYDINLATMA ARMATÜRLERÝNÝN MONTAJI VE BAÐLANTILARI
     7.2.1. Dýþ Aydýnlatma Armatürlerinin Montajý
     7.2.2. Dýþ Aydýnlatma Armatür Ve Ekipmanlarýnýn Yönetmeliklere Uygun Montajý Ýçin Dikkat Edilecek Hususlar
-        Temrin Yapraðý 58: Dýþ Aydýnlatma Armatürünün Montajý Ve Hat Baðlantýsý
-        Temrin Yapraðý 59: Dýþ Aydýnlatma Tesisatýnýn Fotosel Röle Ýle Kontrolü
-ÖÐRENME BÝRÝMÝ 7 ÖLÇME YAPRAÐI
-ÖLÇME DEÐERLENDÝRME CEVAP ANAHTARI
-SÖZLÜK
-KAYNAKÇA
+        EBA067.asc: Sokak aydýnlatma armatür, lamba ve kablo devreleri-7 örneði.
 
 DERS-07 Doðru Akým Esaslarý
+    1. DOÐRU AKIM (DC) DEVRE ÖLÇÜM VE HESAPLAMALARI
+    1.1. Doðru Akým (DC) Kavramlarý
+    1.1.1. Doðru Akýmýn Tanýmý
+    1.1.2. Doðru Akýmýn Elde Edilme Yöntemleri
+    1.1.3. Doðru Akýmýn Kullanýldýðý Yerler
+    1.2. Ohm Kanunu Kavramlarý
+    1.2.1. Ohm Kanunun Tanýmý
+    1.2.2. Ohm Kanunu Formülü
+    1.2.3. Ohm Kanunu ile Akým Gerilim Direnç Hesaplamalarý
+    1.3. Devre Özellikleri ve Çözümleri
+    1.3.1. Seri Devre Özellikleri
+    1.3.2. Kirþof’un Gerilimler Kanunu Kavramlarý
+    1.3.3. Paralel Devre Özellikleri
+    1.3.4. Kirþof’un Akýmlar Kanunu Kavramlarý
+    1.3.5. Karýþýk Devre Özellikleri ve Çözümleri
+    1.4. Bobinin Doðru Akýmda (DC) Özellikleri
+    1.4.1. Bobinin Doðru Akýmda Kullanýmý Özellikleri
+    1.4.2. Bobinin Devre Baðlantýlarýndaki Endüktans Hesaplamalarý
+    1.5. Doðru Akýmda (DC) Kondansatörün Özellikleri
+    1.5.1. Taným
+    1.5.2. Kondansatörün Doðru Akýmda (DC) Kullanýldýðý Yerler
+    1.5.3. Kondansatörün Kapasite Hesabý
+    1.5.4. Kondansatörün Þarj ve Deþarj Özellikleri
+    1.5.5. Kondansatörün Zaman Sabitesi
+    1.5.6. Kondansatörün Devre Baðlantýlarýndaki Kapasite Hesaplamalarý
+    2. DOÐRU AKIM (DC) KAYNAKLARININ ÇEÞÝTLERÝ VE BAÐLANTI ÞEKÝLLLERÝ
+    2.1. Doðru Akým Kaynak Çeþitleri
+    2.2. Doðru Akým Kaynaklarýný Baðlantý Þekilleri
+    2.2.1. Kaynaklarýn Seri Baðlantýsý
+    2.2.2. Kaynaklarýn Paralel Baðlanmasý
+    2.2.3. Doðru Akým (DC) Kaynaklarýnýn Baðlantý Hesaplamalarý
+    2.2.4. Doðru Akým Kaynaklarýný Kullanýrken Dikkat Edilecek Konular
+    2.3. Piller
+    2.3.1. Pilin Tanýmý
+    2.3.2. Pillerin Yapýsý ve Çeþitleri
+    2.3.3. Pilin Ýç Direnci
+    2.3.4. Pillerde Güç ve Verim
+    2.4. Akümülatör (Akü)
+    2.4.1. Akü Tanýmý
+    2.4.2. Akü Çeþitleri
+    2.4.3. Akü Kapasiteleri ve Hesabý
+    2.5. Dinamolar
+    3. DOÐRU AKIM MOTOR BAÐLANTILARI
+    3.1. Elektromanyetizma
+    3.2. Doðru Akým Geçen Ýletken Etrafýnda Oluþan Manyetik Alan
+    3.3. Doðru Akým Geçen Bobin Etrafýnda Oluþan Manyetik Alan
+    3.4. Ýçinden Akým Geçen Ýletkenin Manyetik Alan Ýçindeki Hareketi
+    3.5. Manyetik Alan Ýçinde Bulunan Ýletkenin Hareketi
+    3.6. Doðru Akým (DC) Motor Tanýmý ve Çeþitleri
+    3.7. Doðru Akým (DC) Motorlarýnýn Temel Çalýþma Prensibi
+    3.8. Doðru Akým (DC) Motorun Dönüþ Yönünü Deðiþtirmek
+    3.9. Doðru Akým (DC) Motorun Devir Sayýsýný Deðiþtirmek
+
+
 DERS-08 Alternatif Akým Esaslarý
 DERS-09 Temel Elektrik Elektronik Esaslarý
 DERS-10 Analog Devre  Elemanlarý
@@ -601,3 +629,6 @@ EBA061.asc: Binalarda topraklama ve paratoner tesisat devreleri-1 örneði.
 EBA062.asc: Sýva üstü/altý ve döþeme altý boru, kanal, taþýyýcý tesisat devreleri-2 örneði.
 EBA063.asc: Busbar sistem ekipmanlarý ve montajý devreleri-3 örneði.
 EBA064.asc: Telefon ve anten tesisatlarý ve montajý devreleri-4 örneði.
+EBA065.asc: Akýllý ev tesisatlarý ve montajý devreleri-5 örneði.
+EBA066.asc: Kuvvet tesisatlarýndan üç fazlý fiþ, priz ve pano devreleri-6 örneði.
+EBA067.asc: Sokak aydýnlatma armatür, lamba ve kablo devreleri-7 örneði.
