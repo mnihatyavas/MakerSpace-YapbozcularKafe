@@ -559,6 +559,7 @@ DERS-07 Doðru Akým Esaslarý
     1.5.4. Kondansatörün Þarj ve Deþarj Özellikleri
     1.5.5. Kondansatörün Zaman Sabitesi
     1.5.6. Kondansatörün Devre Baðlantýlarýndaki Kapasite Hesaplamalarý
+        EBA071.asc: DC doðru akým devre ölçüm ve hesaplama devreleri-1 örneði.
     2. DOÐRU AKIM (DC) KAYNAKLARININ ÇEÞÝTLERÝ VE BAÐLANTI ÞEKÝLLLERÝ
     2.1. Doðru Akým Kaynak Çeþitleri
     2.2. Doðru Akým Kaynaklarýný Baðlantý Þekilleri
@@ -576,6 +577,7 @@ DERS-07 Doðru Akým Esaslarý
     2.4.2. Akü Çeþitleri
     2.4.3. Akü Kapasiteleri ve Hesabý
     2.5. Dinamolar
+        EBA072.asc: DC kaynak çeþitleri ve baðlantý devreleri-2 örneði.
     3. DOÐRU AKIM MOTOR BAÐLANTILARI
     3.1. Elektromanyetizma
     3.2. Doðru Akým Geçen Ýletken Etrafýnda Oluþan Manyetik Alan
@@ -586,9 +588,70 @@ DERS-07 Doðru Akým Esaslarý
     3.7. Doðru Akým (DC) Motorlarýnýn Temel Çalýþma Prensibi
     3.8. Doðru Akým (DC) Motorun Dönüþ Yönünü Deðiþtirmek
     3.9. Doðru Akým (DC) Motorun Devir Sayýsýný Deðiþtirmek
-
+        EBA073.asc: Doðru akým DC motor baðlantýsý devreleri-3 örneði.
 
 DERS-08 Alternatif Akým Esaslarý
+    1. ALTERNATÝF AKIM
+    1.1. Alternatif Akýmýn Tanýmý
+    1.2. Alternatif Akýmýn Elde Edilmesi
+    1.3. Sinüs Dalgasý
+    1.3.1. Saykýl
+    1.3.2. Periyot
+    1.3.3. Alternans
+    1.3.4. Frekans
+    1.3.5. Açýsal Hýz
+    1.3.6. Dalga Boyu
+    1.4. Alternatif Akým Deðerleri
+    1.4.1. Ani deðer
+    1.4.2. En Yüksek (Maksimum) Deðer
+    1.4.3. Ortalama Deðer12
+    1.4.4. Etkin Deðer1
+    1.5. Alternatif Akýmýn Vektörlerle Gösterilmesi
+    1.5.1. Sýfýr Faz
+    1.5.2. Ýleri Faz
+    1.5.3. Geri Faz
+    1.5.4. Faz Farký
+    1.6. Alternatif Akýmýn Etkileri
+    1.6.1. Isý Etkisi
+    1.6.2. KimyasalEtkisi
+    1.6.3. Manyetik Etkisi
+        EBA081.asc: Alternatif akým AC taným, sinüs, sýklýk, dönem, döngü devreleri-1 örneði.
+    2. ALTERNATÝF AKIM DEVRELERÝ
+    2.1. AC Devrelerde Bobinler
+    2.1.1. Endüktans
+    2.1.2. AC’de Gösterdiði Özellikler
+    2.1.3. AC’de Seri ve Paralel Baðlantýlarý
+    2.1.4. Nüvenin Endüktansa Etkisi
+    2.2. AC Devrelerinde Kapasitörler
+    2.2.1. Kapasitans
+    2.2.2. AC’de Gösterdiði Özellikler
+    2.2.3. AC’de Seri ve Paralel baðlantýlarý
+    2.3. Alternatif Akým Devre Çeþitleri
+    2.3.1. Seri Devreler
+    2.3.2. Paralel Devreler
+    2.3.3. Rezonans Devreleri
+    2.3.4. Alternatif Akýmda Güç
+    2.3.5. Endüktif Yüklü (R-XL) Devrelerde Güç Üçgeni
+    2.3.6. Güç Katsayýsý
+    2.3.7. Üç Fazlý Sistemler
+    3. TRANSFORMATÖRLER
+    3.1. Transformatörün Yapýsý
+    3.2. Transformatörün Çalýþma Prensibi
+    3.3. Transformatör Çeþitleri
+    3.3.1. Nüve Tipine Göre
+    3.3.2. Faz Sayýsýna Göre
+    3.3.3. Çalýþma Ortamýna Göre
+    3.3.4. Kullanma Amacýna Göre
+    3.4. Dönüþtürme Oraný
+    3.5. Transformatör Kayýplarý
+    3.5.1. Fuko Kaybý
+    3.5.2. Histerisiz Kaybý
+    3.5.3. Bakýr Kaybý
+    3.6. Transformatörlerde Güç
+    3.7. Transformatörlerde Verim
+
+
+
 DERS-09 Temel Elektrik Elektronik Esaslarý
 DERS-10 Analog Devre  Elemanlarý
 DERS-11 Dogrultmaçlar Ve Regüle Devreleri
@@ -632,3 +695,7 @@ EBA064.asc: Telefon ve anten tesisatlarý ve montajý devreleri-4 örneði.
 EBA065.asc: Akýllý ev tesisatlarý ve montajý devreleri-5 örneði.
 EBA066.asc: Kuvvet tesisatlarýndan üç fazlý fiþ, priz ve pano devreleri-6 örneði.
 EBA067.asc: Sokak aydýnlatma armatür, lamba ve kablo devreleri-7 örneði.
+EBA071.asc: DC doðru akým devre ölçüm ve hesaplama devreleri-1 örneði.
+EBA072.asc: DC kaynak çeþitleri ve baðlantý devreleri-2 örneði.
+EBA073.asc: Doðru akým DC motor baðlantýsý devreleri-3 örneði.
+EBA081.asc: Alternatif akým AC taným, sinüs, sýklýk, dönem, döngü devreleri-1 örneði.
