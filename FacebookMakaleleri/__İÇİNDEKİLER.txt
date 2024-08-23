@@ -20,10 +20,17 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202407010749: Selim Dikel'den AKP ve maliye bakaný baþarýsý makalesi.
 202407020915: Fatih Kaplan'ýn 2 Temmuz 1993 Sivas katliamý makalesi.
 202407051532: Fatih Kaplan'dan tanrý devletçiliði makalesi.
-202407051614: Hülya Piray'dan yalnýz baþýna ne yapýlýr makalesi.
+202407051614: Hülya Piray'dan yalnýz baþýna ne yapýlýr þiir alýntýsý.
+202407091430: Hakiþ, Türkiþ ve Disk baþkanlarýnýn 10 maddelik ortak manifestosu.
 202407151340: Zeki Yalçýdere'nin tüik tüfe aldatmacasý makalesi.
 202407151748: Ali Eralp'ýn zulmün artsýn padiþahým ki tez yýkýlasýn makalesi.
 202407210956: Selim Dikel'in Türkiye’nin bütün iþçi, memur ve emeklisi birleþin makalesi.
 202407231144: 2005-2024 emekli maaþý, altýn ve asgari ücret karþýlaþtýrma tablosu.
 202408030725: Hüseyin Kurt'un Genco Erkal vefatýna baþsaðlýðý mesajý.
 202408030839: M.Nihat Yavaþ'tan Genco Erkal'ýn otobiyografisi ve baþsaðlýðý makalesi.
+202408061613: Arzu Çerkezoðlu, Selim Dikel, Fatih Kaplan, Hüseyin Kurt ve Ali Eralp karma makalesi.
+202408091828: Ali Eralp'ýn Tarih Affetmez adlý makalesi.
+202408121437: Selim Dikel'in Nerede Kalmýþtýk adlý makalesi.
+202408151015: Ali Eralp'in Hak-hukuk bir gün herkese gerekebilir adlý makalesi.
+202408151145: Ali Sürücü'nün (2021-TES Avukatý) YARGININ EMEKLÝLERLE ÝMTÝHANI -1 adlý makalesi.
+202408041011: Selim Dikel'in BOP TANRI DEVLETLERÝ adlý makalesi.
