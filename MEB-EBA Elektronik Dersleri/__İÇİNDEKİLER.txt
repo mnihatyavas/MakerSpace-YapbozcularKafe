@@ -604,8 +604,8 @@ DERS-08 Alternatif Akým Esaslarý
     1.4. Alternatif Akým Deðerleri
     1.4.1. Ani deðer
     1.4.2. En Yüksek (Maksimum) Deðer
-    1.4.3. Ortalama Deðer12
-    1.4.4. Etkin Deðer1
+    1.4.3. Ortalama Deðer
+    1.4.4. Etkin Deðer
     1.5. Alternatif Akýmýn Vektörlerle Gösterilmesi
     1.5.1. Sýfýr Faz
     1.5.2. Ýleri Faz
@@ -634,6 +634,7 @@ DERS-08 Alternatif Akým Esaslarý
     2.3.5. Endüktif Yüklü (R-XL) Devrelerde Güç Üçgeni
     2.3.6. Güç Katsayýsý
     2.3.7. Üç Fazlý Sistemler
+        EBA082.asc: Bobin ve kapasitörlü alternatif akým devreleri-2 örneði.
     3. TRANSFORMATÖRLER
     3.1. Transformatörün Yapýsý
     3.2. Transformatörün Çalýþma Prensibi
@@ -649,10 +650,194 @@ DERS-08 Alternatif Akým Esaslarý
     3.5.3. Bakýr Kaybý
     3.6. Transformatörlerde Güç
     3.7. Transformatörlerde Verim
-
-
+        EBA083.asc: AC gerilimde dönüþtüreç trafo devreleri-3 örneði.
 
 DERS-09 Temel Elektrik Elektronik Esaslarý
+    1. ELEKTRÝÐÝN TEMEL ESASLARI
+    1.1. ELEKTRÝK ENERJÝ KAYNAKLARI
+    1.1.1. Elektrik Enerjisi ve Üretimi
+    1.1.2. Elektrik Enerjisinin Diðer Enerjilere Göre Üstünlükleri
+    1.1.3. Elektrik Enerjisinin Kaynaklarý Çeþitleri ve Özellikleri
+    1.1.4. Yenilenebilir Enerji Kaynaklarý
+    1.2. ELEKTRÝK ENERJÝ SANTRALLERÝ VE ÜRETÝM AÞAMALARI
+    1.2.1. Alternatörler ve Elektrik Üretimi
+        Sen de Yap 1. Kendi Elektrik Enerjini Üretebilir misin?
+    1.2.2. Termik Santraller ve Özellikleri
+    1.2.3. Nükleer Santraller ve Özellikleri
+    1.2.4. Yenilenebilir Enerji Santralleri
+    1.2.4.1. Hidroelektrik Santraller ve Özellikleri
+    1.2.4.2. Rüzgâr Santralleri ve Özellikleri
+        Sen de Yap 2. Rüzgâr Enerjisi Elektrik Enerjisine Nasýl Dönüþür?
+    1.2.4.3. Güneþ Santralleri ve Özellikleri
+        Sen de Yap 3. Güneþ Enerjisi ile Çalýþan Gemi Yapalým mý?
+    1.2.4.4. Jeotermal Santraller ve Özellikleri
+    1.2.4.5. Biyokütle Enerji Santralleri ve Özellikleri
+    1.2.4.6. Gelgit Enerji Santralleri ve Özellikleri
+    1.3. ATOMUN YAPISI VE ELEKTRON TEORÝSÝ
+    1.3.1. Atomun Yapýsý
+    1.3.2. Elektron Teorisi
+    1.3.3. Ýletkenler, Yalýtkanlar ve Yarýiletkenler
+    1.3.3.1. Ýletken Maddeler
+    1.3.3.2. Yalýtkan Maddeler
+    1.3.3.3. Yarýiletken Maddeler
+        Sen de Yap 4. Kalem Ucu ile Ayarlý Okuma Lambasý Yapalým mý?
+    1.4. ELEKTRÝK YÜKLERÝ VE ELEKTRÝK ALANI
+    1.4.1. Elektrik Yükünün Özellikleri
+    1.4.2. Coulomb Kanunu
+    1.4.3. Elektrik Alaný
+        Sen de Yap 5. Mýknatýs Yardýmýyla Kalemi Havada Durdurabilir misiniz?
+    1.4.4. Elektrik Potansiyeli
+    1.4.5. Þimþek ve Yýldýrým
+    1.5. ELEKTRÝK AKIMININ ÖZELLÝKLERÝ
+    1.5.1. Elektrik Akýmý
+    1.5.2. Elektrik Akýmýnýn Ast ve Üst Katlarý
+    1.5.3. Elektrik Akým Çeþitleri
+    1.5.3.1. Doðru (DC, DA) Akým
+    1.5.3.2. Alternatif (AC, AA) Akým
+    1.5.4. Elektrik Akýmýnýn Etkileri
+    1.5.4.1. Elektrik Akýmýnýn Isý Etkisi
+    1.5.4.2. Elektrik Akýmýnýn Iþýk Etkisi
+    1.5.4.3. Elektrik Akýmýnýn Manyetik Etkisi
+        Sen de Yap 6. Pil ile Elektromýknatýs Yapýlýr mý?
+        Sen de Yap 7. Doðru Akým Motoru Yapalým mý?
+    1.5.4.4. Elektrik Akýmýnýn Kimyasal Etkisi
+    1.5.4.5. Elektrik Akýmýnýn Fizyolojik Etkisi
+    1.5.5. Elektrik Akým Yoðunluðu
+    1.6. ELEKTRÝK GERÝLÝMÝNÝN ÖZELLÝKLERÝ
+    1.6.1. Gerilim ve Elektromotor (EMK) Ýliþkisi
+        Sen de Yap 8. EMK’mý Büyük Yoksa Gerilim mi?
+    1.6.2. Gerilimin Ast ve Üst Katlarý
+    1.6.3. Gerilim Çeþitleri
+    1.6.4. Gerilim Üretme Yöntemleri
+    1.7. STATÝK ELEKTRÝK VE ELEKTRÝKLENME YÖNTEMLERÝ
+    1.7.1. Statik Elektrik (Elektrostatik) Özellikleri
+        Sen de Yap 9. Kavanozdan Elektroskop Yapýlýr mý?
+    1.7.2. Elektriklenme Yöntemleri
+    1.7.2.1. Sürtünme ile Elektriklenme
+    1.7.2.2. Dokunma ile Elektriklenme
+    1.7.2.3. Etki ile Elektriklenme
+    1.7.3. Statik Elektriðin Zararlý Etkileri
+    1.7.4. Statik Elektrikten Korunma Yöntemleri
+    1. ÖLÇME VE DEÐERLENDÝRME
+
+    2. DOÐRU AKIM ESASLARI
+    2.1. DOÐRU AKIM (DC) ÖZELLÝKLERÝ
+    2.1.1. Doðru Akým (DC) ve Özellikleri
+    2.2. DOÐRU AKIM KAYNAKLARI
+    2.2.1. Doðru Akým Kaynak Çeþitleri
+    2.2.1.1. Pil ve Batarya
+    2.2.1.2. Akümülatörler
+    2.2.1.3. Güneþ Hücreleri
+    2.2.1.4. Dinamolar
+    2.2.1.5. Doðrultucular
+    2.2.2. Doðru Akým Kaynak Baðlantýlarý ve Hesaplamalarý
+    2.2.2.1. Doðru Akým Kaynaklarýnýn Seri Baðlantýsý
+    2.2.2.2. Doðru Akým Kaynaklarýnýn Paralel Baðlantýsý
+    2.2.2.3. Doðru Akým Kaynaklarýnýn Karýþýk Baðlantýsý
+    2.2.3. Doðru Akým Kaynaklarý Kullanýrken Dikkat Edilecek Hususlar
+        Çalýþma Yapraðý 2.1: Pillerin Seri ve Paralel Baðlantýsý
+    2.3. DOÐRU AKIM DEVRELERÝ VE BAÐLANTILARI
+    2.3.1. Seri Devreler ve Özellikleri
+        Çalýþma Yapraðý 2.2: Dirençlerin Seri Baðlantýsý
+    2.3.2. Paralel Devreler ve Özellikleri
+        Çalýþma Yapraðý 2.3: Dirençlerin Paralel Baðlantýsý
+    2.3.3. Karýþýk Devreler ve Özellikleri
+        Çalýþma Yapraðý 2.4: Dirençlerin Karýþýk Baðlantýsý
+    2.3.4. Yýldýz-Üçgen Dönüþümleri ve Hesaplamalarý
+    2.3.4.1. Yýldýz-Üçgen Dönüþümü
+    2.3.4.2. Üçgen-Yýldýz Dönüþümü
+    2.4. OHM KANUNU ÝLE DEVRE ANALÝZÝ
+    2.4.1. Ohm Kanunu Tanýmý
+    2.4.2. Ohm Kanunu ile Devre Hesaplamalarý
+        Çalýþma Yapraðý 2.5: Ohm Kanunu Uygulamasý
+        Çalýþma Yapraðý 2.6: LED Ýçin Direnç Hesaplama
+    2.5. KÝRÞOF (KIRCHHOFF) KANUNLARI ÝLE DEVRE ANALÝZÝ
+    2.5.1. Kirþof’un Gerilimler Kanunu
+    2.5.2. Kirþof’un Gerilimler Kanunu ile Seri Devre Hesaplamalarý
+        Çalýþma Yapraðý 2.7: Kirþof’un Gerilimler Kanunu
+    2.5.3. Kirþof’un Akýmlar Kanunu
+    2.5.4. Kirþof’un Akýmlar Kanunu ile Paralel Devre Hesaplamalarý
+    2.5.5. Kirþof Kanunlarý ile Karýþýk Devre Hesaplamalarý
+        Çalýþma Yapraðý 2.8: Kirþof’un Akýmlar Kanunu
+    2.5.6. Gözlü Devre Hesaplamalarý
+    2.5.6.1. Çevre Akýmlarý Yöntemi
+    2.5.6.2. Düðüm Gerilimleri Yöntemi
+    2.6. KONDANSATÖR BAÐLANTILARI
+    2.6.1. Kondansatörler ve Özellikleri
+    2.6.2. Kondansatörde Þarj ve Deþarj Olaylarý
+    2.6.3. Kondansatörlerin Kullanýldýðý Yerler
+    2.6.4. Kondansatörlerin Baðlantýlarý
+    2.6.4.1. Kondansatörlerin Seri Baðlantýsý
+    2.6.4.2. Kondansatörlerin Paralel Baðlantýsý
+    2.6.4.3. Kondansatörlerin Karýþýk Baðlantýsý
+        Çalýþma Yapraðý 2.9: Kondansatörün Þarj ve Deþarjý
+    2.7. BOBÝN BAÐLANTILARI
+    2.7.1. Bobinler ve Özellikleri
+    2.7.2. Bobinlerin Doðru Akýmda Kullanýlmasý
+    2.7.3. Bobinlerin Doðru Akýmda Kullanýldýðý Yerler
+    2.7.4. Bobin Baðlantýlarý
+    2.7.4.1. Bobinlerin Seri Baðlantýsý
+    2.7.4.2. Bobinlerin Paralel Baðlantýsý
+    2.7.4.3. Bobinlerin Karýþýk Baðlantýsý
+        Çalýþma Yapraðý 2.10: Bobinlerin Seri- Paralel Baðlantýsý
+    2. ÖLÇME VE DEÐERLENDÝRME
+
+    3. ALTERNATÝF AKIM ESASLARI
+    3.1. ALTERNATÝF AKIM (AC) ÖZELLÝKLERÝ VE ELDE EDÝLMESÝ
+    3.1.1. Alternatif Akým
+    3.1.2. Alternatif Akým Çeþitleri
+    3.1.3. Alternatif Akýmýn Elde Edilmesi
+    3.1.4. Alternatif Akýmýn Kullanýldýðý Yerler
+    3.2. ALTERNATÝF AKIM BÝLEÞENLERÝ VE VEKTÖREL GÖSTERÝMLERÝ
+    3.2.1. Sinüs Dalgasý (Sinüzoidal Sinyal)
+    3.2.2. Alternatif Akým Bileþenleri
+    3.2.3. Alternatif Akýmýn Deðerleri
+    3.2.4. Alternatif Akýmda Faz ve Faz Farký
+        Çalýþma Yapraðý 3.1: Doðrultucu Devre Giriþ ve Çýkýþ Sinyalinin Gözlemlenmesi
+        Çalýþma Yapraðý 3.2: Osiloskop ile Alternatif Sinyal Ölçümü
+    3.3. ALTERNATÝF AKIMDA BOBÝNLER
+    3.3.1. Endüktans ve Özellikleri
+    3.3.2. Alternatif Akýmda Bobinin Gösterdiði Özellikler
+    3.3.3. Alternatif Akýmda Bobin Baðlantýlarý ve Hesaplamalarý
+        Çalýþma Yapraðý 3.3: Bobin Endüktans Ölçümü
+    3.4. ALTERNATÝF AKIMDA KONDANSATÖRLER
+    3.4.1. Alternatif Akýmda Kondansatörlerin Gösterdiði Özellikler
+    3.4.2. Alternatif Akýmda Kondansatör Baðlantýlarý ve Hesaplamalarý
+        Çalýþma Yapraðý 3.4: Kondansatör Kapasitans Ölçümü
+    3.5. ALTERNATÝF AKIMDA SERÝ, PARALEL VE KARIÞIK DEVRE HESAPLARI
+    3.5.1. Empedans ve Admitans Ýliþkisi
+    3.5.2. Seri R-L Devrenin Özellikleri
+    3.5.3. Seri R-C Devrenin Özellikleri
+    3.5.4. Seri R-L-C Devreler ve Özellikleri
+    3.5.5. Alternatif Akýmda R-L Paralel Devreler ve Özellikleri
+    3.5.6. Alternatif Akýmda R-C Paralel Devreler ve Özellikler
+    3.5.7. Alternatif Akýmda R-L-C Paralel Devreler ve Özellikleri
+    3.5.8. Üç Fazlý Sistemlerde Yýldýz ve Üçgen Baðlantýlarý
+        Çalýþma Yapraðý 3.5: Seri R-L-C Devresinde Akým - Gerilim Ölçümleri
+    3.6. ALTERNATÝF AKIMDA GÜÇ HESAPLARI
+    3.6.1. Dirençli Devrelerde Aktif Güç Hesabý
+        Çalýþma Yapraðý 3.6: Dirençli Devrede Güç Ölçümü ve Hesaplamasý
+    3.6.2. Bobinli Devrelerde Reaktif Güç Hesabý
+    3.6.3. Kondansatörlü Devrelerde Reaktif Güç Hesabý
+    3.6.4. R-L-C Devrelerde Güç Hesabý ve Güç Üçgeni
+        Çalýþma Yapraðý 3.7: R-L-C Devresinde Güç Ölçümü ve Hesaplamasý
+    3.7. ALTERNATÝF AKIMDA REZONANS DEVRE HESAPLARI
+    3.7.1. Seri Rezonans Devreler ve Özellikleri
+    3.7.2. Paralel Rezonans Devreler ve Özellikleri
+    3.8. TRANSFORMATÖRLERÝN ÖZELLÝKLERÝ VE ÇEÞÝTLERÝ
+    3.8.1. Transformatör Özellikleri ve Çalýþmasý
+    3.8.2. Transformatörün Yapýsý
+    3.8.3. Transformatör Çeþitleri
+        Çalýþma Yapraðý 3.8: Transformatör Deneyi
+    3.9. TRANSFORMATÖR DÖNÜÞTÜRME HESAPLARI
+    3.10. TRANSFORMATÖRDE GÜÇ VE VERÝM HESAPLARI
+    3.10.1. Transformatör Kayýplarý
+    3.10.2. Transformatörde Güç
+    3.10.3. Transformatörde Verim
+    3. ÖLÇME VE DEÐERLENDÝRME
+
+
+
 DERS-10 Analog Devre  Elemanlarý
 DERS-11 Dogrultmaçlar Ve Regüle Devreleri
 DERS-12 Amplifikatörler
@@ -699,3 +884,5 @@ EBA071.asc: DC doðru akým devre ölçüm ve hesaplama devreleri-1 örneði.
 EBA072.asc: DC kaynak çeþitleri ve baðlantý devreleri-2 örneði.
 EBA073.asc: Doðru akým DC motor baðlantýsý devreleri-3 örneði.
 EBA081.asc: Alternatif akým AC taným, sinüs, sýklýk, dönem, döngü devreleri-1 örneði.
+EBA082.asc: Bobin ve kapasitörlü alternatif akým devreleri-2 örneði.
+EBA083.asc: AC gerilimde dönüþtüreç trafo devreleri-3 örneði.
