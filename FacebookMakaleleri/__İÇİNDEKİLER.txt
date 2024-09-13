@@ -1,6 +1,6 @@
 ÝÇÝNDEKÝLER
 --------------
-http://www.facebook.com ve https://github.com/mnihatyavas/MakerSpace-YapbozcularKafe/tree/main/FacebookMakaleleri/animasyonHTML
+http://www.facebook.com ve https://github.com/mnihatyavas/MakerSpace-YapbozcularKafe/tree/main/FacebookMakaleleri/
 --------------------------------------------------------------------------------
 _mny1.html: Facebook png resmi için çerçeveli logo, slogan ve makale kodlamasý.
 _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen sloganlý makale kodlamasý.
@@ -28,9 +28,15 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202407231144: 2005-2024 emekli maaþý, altýn ve asgari ücret karþýlaþtýrma tablosu.
 202408030725: Hüseyin Kurt'un Genco Erkal vefatýna baþsaðlýðý mesajý.
 202408030839: M.Nihat Yavaþ'tan Genco Erkal'ýn otobiyografisi ve baþsaðlýðý makalesi.
+202408041011: Selim Dikel'in BOP TANRI DEVLETLERÝ adlý makalesi.
 202408061613: Arzu Çerkezoðlu, Selim Dikel, Fatih Kaplan, Hüseyin Kurt ve Ali Eralp karma makalesi.
 202408091828: Ali Eralp'ýn Tarih Affetmez adlý makalesi.
 202408121437: Selim Dikel'in Nerede Kalmýþtýk adlý makalesi.
 202408151015: Ali Eralp'in Hak-hukuk bir gün herkese gerekebilir adlý makalesi.
 202408151145: Ali Sürücü'nün (2021-TES Avukatý) YARGININ EMEKLÝLERLE ÝMTÝHANI -1 adlý makalesi.
-202408041011: Selim Dikel'in BOP TANRI DEVLETLERÝ adlý makalesi.
+202408182245: Ali Eralp'ýn MÝLLET MECLÝSÝNDE KÜRSÜ DOKUNULMAZLIÐINA SALDIRI makalesi.
+202408231623: Yenidünya gazetesinin Türk-Ýþ 81 ilde basýn açýklamasý yaptý haberi.
+202408290440: Fatih Kaplan'ýn iþsizlik ve Selim Dikel'in emeklinin sefaleti makaleleri.
+202408290548: Ali Eralp'ýn sahte muhalefet, 30 aðustos ve yobaz iktidar makaleleri.
+202408300848: Hülya Piray, Fatih Kaplan, Hüseyin Kurt ve Selim Dikel'in demeçleri.
+202409120107: MNY'den Umut için 'Hepimizin Baþý Saðolsun' makalesi.
