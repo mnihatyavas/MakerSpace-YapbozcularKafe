@@ -1,6 +1,6 @@
 ÝÇÝNDEKÝLER
 --------------
-http://www.facebook.com ve https://github.com/mnihatyavas/MakerSpace-YapbozcularKafe/tree/main/FacebookMakaleleri/
+https://github.com/mnihatyavas/MakerSpace-YapbozcularKafe/tree/main/FacebookMakaleleri/
 --------------------------------------------------------------------------------
 _mny1.html: Facebook png resmi için çerçeveli logo, slogan ve makale kodlamasý.
 _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen sloganlý makale kodlamasý.
@@ -42,3 +42,9 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202409120107: MNY'den Umut için 'Hepimizin Baþý Saðolsun' makalesi.
 202409131505: MNY'den DÝSK'in 'Umudu Hep Birlikte Büyüteceðiz' mitingi.
 202409180536: Ali Eralp'ýn KORKUTMA VE BASKIYLA VARLIÐINI DEVAM ETTÝRMEYE ÇALIÞAN BÝR ÝKTÝDAR makalesi.
+202409211839: Ali Sürücü'nün Ýþçi ve Sendikalarýn SGK Tebliði makalesi.
+202409240106: Fatih Kaplan'ýn Emekli sendikasý bunu diyemez dememelidir makalesi.
+202409250501: Ali Eralp'in TECAVÜZLER NEDEN TARÝKAT YURTLARINDA OLUYOR makalesi.
+202409280754: Ali Eralp'in ÞERÝATÇIYA KARÞI TÜM ULUSALCILAR GÜÇBÝRLÝÐÝ YAPMALIDIRLAR makalesi.
+202410020836: Fatih Kaplan'ýn 1 EKÝM  DÜNYA YAÞLILAR GÜNÜ KUTLU OLSUN makalesi.
+202410030209: Ali Eralp'in SUUDÝ ARABÝSTAN MÝLLÝ GÜNÜ ANKARA’DA KUTLANDI makalesi.
