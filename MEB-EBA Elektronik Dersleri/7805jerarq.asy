@@ -1,7 +1,7 @@
 Version 4
 SymbolType BLOCK
 RECTANGLE Normal -128 -64 128 96
-TEXT -43 -50 Left 0 78xxJer
+TEXT -43 -50 Left 2 78xxJer
 WINDOW 38 0 -17 Center 0
 SYMATTR SpiceModel Vreg
 PIN -128 0 LEFT 8
