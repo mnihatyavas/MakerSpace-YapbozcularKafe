@@ -1,0 +1,49 @@
+
+*********************************************
+* Vishay NTC Thermistors included in this file : TFPT
+* DESCRIPTION: surface mount Nickel thin film RTD’s
+* For power rating and temperature range limitations, see
+* TFPT : www.vishay.com/docs/33017/tfpt.pdf
+* the model is applicable for transient and steady state conditions under bias including self heating.
+* version 2 30 nov 2016: tolerance on V(T) modified with B1
+.SUBCKT TFPT_BASE RN RP PARAMs:  cth=0 gth=0 a=0 b=0  c=0
++  d=0 r25=0  dR25=0 dslope = 0
+R_R6         0 AOUT  10T TC=0,0
+R_R4         0 FTEMP  1 TC=0,0
+B1         T 0  V=(1+(V(dRslo)+1)*dslope*V(tolslop)/100)*V(dRef)
+G_G8         H 0 VALUE { -(V(RP,RN))*(V(RP,RN))/(R25*V(T)*(A+
++  (TEMP+abs(V(H)))*(B+(TEMP+abs(V(H)))*(C+(TEMP+abs(V(H)))*D)))) }
+G_G6         AOUT 0 VALUE { V(AOUT, 0)/(R25*V(T)*(A+
++  (TEMP+abs(V(H)))*(B+(TEMP+abs(V(H)))*(C+(TEMP+abs(V(H)))*D)))) }
+I_I1         0 AOUT DC 1Adc
+R_R2         0 H  1T TC=0,0
+R_R7         0 T  1 TC=0,0
+R_R31        0 dRef {mc(1,DR25/100)}
+I_I31        0 dRef 1
+R_R32        0 dRslo {mc(1.001,1)}
+I_I32        0 dRslo -1
+G_G1         TOLSLOP 0 TABLE { V(FTEMP, 0) }
++ (
++  (-55,4)(-40,3)(-20,2)(0,1)(12,0.5)(25,0)(40,-0.5)(55,-1)(85,-2)(125,-3)(150,-4)
++  )
+G_G11         RP RN VALUE { V(RP, RN)/V(AOUT) }
+G_G2         FTEMP 0 VALUE { -TEMP }
+G_G10         H 0 VALUE { V(H)*Gth }
+C_C1         0 H  { 0.25 * Cth} IC=0 TC=0,0
+C_C2         0 J  {0.75 * Cth} IC=0 TC=0,0
+R_R10        J H 1000 TC=0,0
+R_R3         0 TOLSLOP  1 TC=0,0
+.ENDS
+*$
+.SUBCKT TFPT1206L1002 RN RP PARAMS: TOL25=0 TOLslope=0
+x1 Rn Rp TFPT_BASE Params:
++ cth  =0.45
++ gth =0.0055
++ a =0.90014
++ b =0.00387235
++ c =0.00000486825
++ d =0.00000000137559
++ r25 =10000
++ dR25={TOL25}
++ dslope={TOLslope}
+.ENDS
