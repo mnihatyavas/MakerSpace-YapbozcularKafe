@@ -134,3 +134,14 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202508061437: Kuzeyegehaber'den Özgür Özel ve Ekrem Ýmamoðlu'nun Aksaray Mitingi makalesi.
 202508071658: Ali Eralp, Metin Çakým, Cumh.gzt. Terörsüz Türkiye Komisyonuna Katýlým makalesi.
 202508090043: Uluay Suna Onderer, TC Ýzzet Uludað 1957 Seçimleri ve Parti Programý makalesi. 
+202508132339: Ali Eralp ve Kadir Koralay'ýn Terörsüz Türkiye makalesi.
+202508140102: Milliyet ve Euronews'ýn Ýran ve Gazze'ye ABD Destekli Ýsrail Saldýrýsý Makalesi.
+202508140142: Süleyman Balcý ve stratejikortak.com'un Zengezur Trump Hattý Makalesi.
+202508162105: Ali Eralp ve Gülseren Barýþ'ýn Terörsüz PKK makalesi.
+202508210236: Hüsamettin Cindoruk'un Türk Baharý Baþladý makalesi.
+202508240008: Ali Eralp ve E.Ýmamoðlu'nun Felaket ve Adalet makalesi.
+202508240136: Gülseren Barýþ ve TC Ýzzet Uludað'ýn Afgan Militanlarý ve CHP'ye Soru makalesi.
+202508280234: Yemen, Filistin, Ýsrail, KKTC Konjonktürel Ýliþkiler makalesi.
+202508290502: Ali Rýza Çakýr, Hüseyin Kurt, Fatih Kaplan Yeni Suudi ve Emekliler makalesi.
+202508300202: Ýlber Ortaylý, Nevbahar Kandemir Su Savaþlarý ÝÞB Çalýþanlarý makalesi.
+202509060207: ayk.gov.tr ve memorial.com.tr ile ÝþBank Atatürk Temettü ve Lavman makalesi.
