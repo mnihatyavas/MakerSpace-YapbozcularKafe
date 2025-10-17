@@ -145,3 +145,17 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202508290502: Ali Rýza Çakýr, Hüseyin Kurt, Fatih Kaplan Yeni Suudi ve Emekliler makalesi.
 202508300202: Ýlber Ortaylý, Nevbahar Kandemir Su Savaþlarý ÝÞB Çalýþanlarý makalesi.
 202509060207: ayk.gov.tr ve memorial.com.tr ile ÝþBank Atatürk Temettü ve Lavman makalesi.
+202509080555: Ali Eralp, Baki Can Kurt, Ahmet Kaya'nýn Yargý Atamasý, PKK Af, Miting makalesi.
+202509110818: Ali Eralp, Ali Batur'un Ýktidarýn Kayyumlu CHP'si makalesi.
+202509130535: Billiofest, Kamil Mor, cosmoturkce Hükümet Çöküþleri, Köprüller Satýlmasýn makalesi.
+202509191740: Orkun Özeller ve Özgür Özel'den Kara Lekeliler ve Utanç Davasý makalesi.
+202509191915: Ayþe Yýldýrým ve M.Enver Yilmaz'dan Gizli Savaþ ve Güney Kýbrýsta Füzeler makalesi. 
+202509231714: Nevbahar Kandemir ve Gülseren Barýþ'dan Trump-RTE ve Hemen Seçim makalesi.
+202509261354: ahaber.com.tr ve Selim Sarýsoy'dan Filistin ve Kürtler makalesi.
+202509271031: Buket Okan ve Nevbahar Kandemir'den Trump-RTE ve Orkun Özeller makalesi.
+202510041532: Necmettin Þengül ve H.Gültepe Öztürk'den Trump'ýn Gazý makalesi.
+202510060225: Haber medyada Venezuella-ABD ve Kolombiya-Ýsrail gerginliði.
+202510061449: Orkun Özeller ve AKP sonrasý refaha dair makale.
+202510081955: M.M.Aksoy, B.Üçok, U.Mumcu ve A.T.Kýþlalý yaþam öyküleri.
+202510082018: Trump, Venezuella, Ýsrail ve Kýbrýs medya haberleri.
+202510110230: A.Eralp ve Ö.Özel Sosyalist Enternasyonal makalesi.
