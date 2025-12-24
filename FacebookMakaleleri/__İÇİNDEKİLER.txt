@@ -45,6 +45,7 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202409211839: Ali Sürücü'nün Ýþçi ve Sendikalarýn SGK Tebliði makalesi.
 202409240106: Fatih Kaplan'ýn Emekli sendikasý bunu diyemez dememelidir makalesi.
 202409250501: Ali Eralp'in TECAVÜZLER NEDEN TARÝKAT YURTLARINDA OLUYOR makalesi.
+202512070835: 
 202409280754: Ali Eralp'in ÞERÝATÇIYA KARÞI TÜM ULUSALCILAR GÜÇBÝRLÝÐÝ YAPMALIDIRLAR makalesi.
 202410020836: Fatih Kaplan'ýn 1 EKÝM  DÜNYA YAÞLILAR GÜNÜ KUTLU OLSUN makalesi.
 202410030209: Ali Eralp'in SUUDÝ ARABÝSTAN MÝLLÝ GÜNÜ ANKARA’DA KUTLANDI makalesi.
@@ -159,3 +160,19 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202510081955: M.M.Aksoy, B.Üçok, U.Mumcu ve A.T.Kýþlalý yaþam öyküleri.
 202510082018: Trump, Venezuella, Ýsrail ve Kýbrýs medya haberleri.
 202510110230: A.Eralp ve Ö.Özel Sosyalist Enternasyonal makalesi.
+202510182002: LobiTürk, Firdevs Carikci ve gazzetr'den KTC, Gazze, Teþhis-Tedavi makalesi.
+202510250331: Ahmet Taner Kýþlalý'dan alýntýlý taziye makalesi.
+202510250620: Yusuf Bildirici, Gülseren Barýþ ve skynews-ins'den CHP Davasý ve Deli Trump makalesi.
+202511010419: Turksinbritain-ins ve Sadýk Çelik'den Tayfun ve Cumhuriyet makalesi.
+202511080330: Sertaç Eþ ve Özdemir Ýnce'den Hak Adalet Toryum makalesi.
+202511150632: Trump, Netanyahu, Petro, Suriye ve Sudan makalesi.
+202511160211: Zülal Kalkandelen ve Þükriye Can'dan E.Ýmamoðlu Ýddianame ve Marþ makalesi.
+202511220501: Politicallyhomeless1982-ins'den Zýrdeli Trump makalesi.
+202511230050: Ýzzet Uludað ve Ahmet Takan'dan CHP ve Epstein makalesi.
+202511290604: Ali Eralp'ten 9 Eylül Kemalist Hareketi makalesi.
+202512070835: Ege Cansen ve Emre Kongar'dan CHP Programý ve Anayasal Vatandaþlýk makalesi.
+202512081211: Özgür Özel'den Tandoðan Bütçe Hakký makalesi.
+202512132348: Þükriye Can'dan Özünüze Dönün makalesi.
+202512200414: Selim Sarýsoy ve ALÝ ÖZSOY'dan Türk Solu makalesi.
+202512211347: Þükriye Can'dan Atatürk Ýlkelerinin Rehberliði makalesi.
+202512240210: Tucker Carlson'dan Netanyahu Kozlarý Makalesi.
