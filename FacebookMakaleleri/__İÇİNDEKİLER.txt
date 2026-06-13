@@ -206,3 +206,11 @@ _mny2.html: Döngülü makara zemin üzerine buton etkileþimli ve kayan esneyen slog
 202604040916: Ali Eralp'ten Nato Taþkýnlýðý makalesi.
 202604110941: Rahmi Turan ve Örsan K.Öymen'den Turp'a Karga makalesi.
 202604172103: Naim Babüroðlu'ndan Trump Sevdasý makalesi.
+202604260606: Sadýk Çelik'ten Cinayetler ve 23 Nisan makalesi.
+202605030016: ADD, Cumhuriyet ve Sözcü'den 1 Mayýs makalesi.
+202605090152: Sadýk Çelik ve Barýþ Pehlivan'dan Dijital Öksüz ve Denizler makalesi.
+202605162102: Emin Çölaþan'dan Tough-guy Kaba-adam makalesi.
+202605230424: Sertaç Eþ'ten ErkenSeçim ve MutlakButlan makalesi.
+202605310519: Donald J.Trump'dan Abraham Accords (truthsocial.com) makalesi.
+202606070740: Saygý Öztürk'ten Ýstiklal Partisi makalesi.
+202606130338: Borsadirekt.com'dan USD-Pariteler makalesi.
