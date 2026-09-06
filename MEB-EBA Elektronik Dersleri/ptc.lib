@@ -1,0 +1,25 @@
+.SUBCKT PTC 1 2 3 RTH={500} TAU={2}
+* Model of BC PTC 90 degree thermistor for temperature sensing, part# 2322 671 91104, Digikey part# BC1378
+* PTC is modeled by 4 temperature dependent resistors, 2 in series with a parallel combination of 2
+* It takes 4 pairs of constants to define the slope and intercept for these 4 resistors on a log resistance versus linear temperature graph.
+.PARAM A=6.533
+.PARAM B=-.007318
+.PARAM C=-14.422
+.PARAM D=.05435
+.PARAM F=-136.027
+.PARAM G=.3932
+.PARAM H=-42.37
+.PARAM J=.1395
+* TK is the absolute temperature in kelvins of 0 degrees C.
+.PARAM TK=273.15
+RP 1 2 1MEG
+B1 1 2 I=V(1,2)/(exp(A+(TEMP+TK+V(4))*B)+exp(C+(TEMP+TK+V(4))*D)+1/(1/exp(F+(TEMP+TK+V(4))*G)+1/exp(H+(TEMP+TK+V(4))*J)))
+* V(4) rperesents the temperature rise of the element
+* The thermal time constant of the die is modeled as an RC time constant fed by a current source representing the power disipated in the die.
+* RTH represents the thermal resistance die to ambient and CTH represents the thermal capacity of the mass of the die.
+RTH 4 0 {RTH}
+CTH 4 0 {TAU/RTH}
+BTH 0 4 I=V(1,2)*V(1,2)/(exp(A+(TEMP+TK+V(4))*B)+exp(C+(TEMP+TK+V(4))*D)+1/(1/exp(F+(TEMP+TK+V(4))*G)+1/exp(H+(TEMP+TK+V(4))*J)))
+* V(3), the middle node on the symbol, is the actual element temperature, represented as voltage, where 1 volt is 1degree C.
+BVT 3 0 V=V(4)+TEMP
+.ENDS
